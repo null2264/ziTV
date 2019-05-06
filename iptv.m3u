@@ -1,0 +1,116 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo"https://en.wikipedia.org/wiki/File:Trans_7_2013.svg" group-title="Indonesia",Trans 7
+http://172.82.148.178:1935/tvportalmidia/tvportalmidia/live.m3u8
+#EXTINF:-1 group-title="Indonesia",RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="Indonesia",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV",ANTV [Alt]
+http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Indonesia",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 tvg-ID="Trans TV" tvg-name="Trans TV" group-title="Indonesia",Trans TV
+http://webtvsaocaetano.flashencoder.acessaradios.com.br:443/webtvsaocaetano/webtvsaocaetano/live.m3u8
+#EXTINF:-1 group-title="Indonesia",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+#EXTINF:-1 group-title="Indonesia",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",GTV
+http://202.80.222.169:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Indonesia",NET.TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Indonesia",MNCTV
+http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
+#EXTINF:-1 group-title="Indonesia",K Drama
+http://rr2.dens.tv/s/s42/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K+
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 group-title="Indonesia",TVOne
+http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Indonesia",CNN Indonesia HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",RTV
+http://rr2.dens.tv/s/s12/index.m3u8
+#EXTINF:-1 group-title="Indonesia",KompasTV
+http://rr2.dens.tv/s/s09/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Indonesia",UseeSports
+http://api.useetv.com/telin/live/infoworldcup/index.m3u8?stime=20180929020000&etime=20180929060000&encoded=0fba4f711a644796fda64
+#EXTINF:-1 group-title="Indonesia",TVRI
+http://118.97.50.97/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Indonesia",TVRI Sports HD
+http://rr2.dens.tv/s/s48/index.m3u8
+#EXTINF:-1 group-title="Indonesia",TVRI Sumsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Indonesia",T Music
+http://118.97.167.8/jhos/allegro.m3u8?stime=20181027100000&etime=20191027120000&encoded=0c20110b533c08b87afa5
+#EXTINF:-1,Klik Music
+http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+#EXTINF:-1 group-title="Indonesia",Beritasatu English	
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",Beritasatu News	
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",Beritasatu World	
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",TV9 Nusantara	
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",DAAI TV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1 group-title="Indonesia",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",SuperSoccer TV
+http://live.livecast.cc:1935/live/ch24-1/livestream.m3u8
+#EXTINF:-1 group-title="Indonesia",TV Edukasi
+http://118.97.167.8/jhos/tvedukasi.m3u8?stime=20181027100000&etime=20181027120000&encoded=076ca25c800a19df199d4
+#EXTINF:-1,MKTV
+http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
+#EXTINF:-1,Saluran Film Indonesia
+http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
+#EXTINF:-1,Test Channel
+http://stream.tvtap.net:8081/live/cn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE4IDg6Mjk6MDQgQU0maGFzaF92YWx1ZT1paUVVbkQ2dmF5SW14dnJwUzkzUkN3PT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 group-title="Japan", NHK World
+http://rr.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="Malaysia",Bernama News
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://qes.com.my/wp-content/uploads/QES-projects-bernama.png", Astro awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:-1, Malaysia1news
+http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
+#EXTINF:-1, TVi
+http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg", TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png", TV2
+http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+
+#EXTINF:-1 group-title="English",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
+#EXTINF:-1,Bloomberg TV
+http://rr.dens.tv/h/h03/index.m3u8
+#EXTINF:-1,KIX
+http://rr.dens.tv/h/h07/index.m3u8
+#EXTINF:-1,DIVA
+http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF:-1,E! Entertainment
+http://rr.dens.tv/h/h10/index.m3u8
+#EXTINF:-1,Hits
+http://rr.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 group-title="Kids/Animation" tvg-ID="Aniplus",Aniplus
+http://rr.dens.tv/h/h02/index.m3u8
+#EXTINF:-1,Animax
+http://rr.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Super Soccer TV
+http://rr.dens.tv/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="Music",XITE
+http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1,HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
