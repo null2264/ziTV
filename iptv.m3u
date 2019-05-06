@@ -104,7 +104,7 @@ http://rr.dens.tv/h/h07/index.m3u8
 http://rr.dens.tv/h/h11/index.m3u8
 #EXTINF:-1,E! Entertainment
 http://rr.dens.tv/h/h10/index.m3u8
-#EXTINF:-1,Hits
+#EXTINF:-1,HITS
 http://rr.dens.tv/h/h37/index.m3u8
 
 #EXTINF:-1 group-title="France",France 24
