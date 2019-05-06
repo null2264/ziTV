@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Trans_7_2013.svg" group-title="Indonesia",Trans 7
+#EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7
 http://172.82.148.178:1935/tvportalmidia/tvportalmidia/live.m3u8
 #EXTINF:-1 group-title="Indonesia",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
@@ -24,7 +24,7 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
 #EXTINF:-1 group-title="Indonesia",K Drama
 http://rr2.dens.tv/s/s42/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.astro.com.my/astro-go-channels/images/k-entertainment-logo.png",K+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg",K+
 http://rr.dens.tv/h/h08/index.m3u8
 #EXTINF:-1 group-title="Indonesia",TVOne
 http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
