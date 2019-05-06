@@ -81,6 +81,7 @@ http://rr2.dens.tv/s/s20/index.m3u8
 #EXTINF:-1,Phoenix TV
 http://rr2.dens.tv/s/s21/index.m3u8
 #EXTINF:-1,Celestial Movies
+http://rr2.dens.tv/s/s33/index.m3u8
 
 #EXTINF:-1 group-title="Malaysia",Bernama News
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
