@@ -110,6 +110,9 @@ http://rr.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 group-title="France",France 24
 http://rr2.dens.tv/s/s22/index.m3u8
 
+#EXTINF:-1 group-title="Rusia",RT
+http://rr2.dens.tv/s/s23/index.m3u8
+
 #EXTINF:-1 group-title="Kids/Animation" tvg-ID="Aniplus",Aniplus
 http://rr.dens.tv/h/h02/index.m3u8
 #EXTINF:-1,Animax
