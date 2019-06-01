@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7
-http://172.82.148.178:1935/tvportalmidia/tvportalmidia/live.m3u8
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Indonesia",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" group-title="Indonesia",ANTV
