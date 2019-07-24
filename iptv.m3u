@@ -120,7 +120,7 @@ http://rr.dens.tv/h/h02/index.m3u8
 #EXTINF:-1,Animax
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDE5IDU6MTU6MzAgQU0maGFzaF92YWx1ZT1UeCtPOUgzQ1ZPZzVpY1REeXEzSTNnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD28L720P/chunklist_b700000.m3u8
 
 #EXTINF:-1 group-title="Sports",Super Soccer TV
 http://rr.dens.tv/h/h20/index.m3u8
