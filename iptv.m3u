@@ -120,9 +120,9 @@ http://rr.dens.tv/h/h02/index.m3u8
 #EXTINF:-1,Animax
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1,Cartoon Network
-http://live.savitar.tv/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDE5IDU6MTU6MzAgQU0maGFzaF92YWx1ZT1UeCtPOUgzQ1ZPZzVpY1REeXEzSTNnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 #EXTINF:-1,Disney Channel
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDE5IDU6MTg6MjIgQU0maGFzaF92YWx1ZT11S0RZdHc5REFYc2wzZmk2aTJqeVJnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
+http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 #EXTINF:-1,Nickelodeon
 http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNC8yMDE5IDU6MTU6NDYgQU0maGFzaF92YWx1ZT13UHZhSHFuMEZmRENqTnZCVmRVUFF3PT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:-1,Disney Junior
