@@ -4,11 +4,11 @@ http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [1]
-http://rr2.dens.tv/s/s07/index.m3u8
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [2]
 http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
-http://rr2.dens.tv/s/s04/index.m3u8
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-chno="9" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/150px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
@@ -21,8 +21,6 @@ http://202.80.222.169:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomai
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNCTV
 http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Indonesia",K Drama
-http://rr2.dens.tv/s/s42/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
 http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/220px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia HD
@@ -111,6 +109,8 @@ http://rr.dens.tv/h/h11/index.m3u8
 http://rr.dens.tv/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",K+
 http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment",K Drama
+http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg" group-title="Entertainment",KIX
 http://rr.dens.tv/h/h07/index.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/715_300.png" group-title="Kids/Animation", Animax
