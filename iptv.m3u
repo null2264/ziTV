@@ -127,7 +127,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/baby/0.m3u8
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids/Animation",Cartoonito
 http://93.107.103.248:8123/play/cartoonito/index.m3u8
-#EXTINF:-1 tvg-logo="https://id.wikipedia.org/wiki/Berkas:Cartoon_Network_2010_logo.svg" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
