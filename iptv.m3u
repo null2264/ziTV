@@ -115,16 +115,12 @@ http://rr.dens.tv/h/h08/index.m3u8
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg" group-title="Entertainment",KIX
 http://rr.dens.tv/h/h07/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/715_300.png" group-title="Kids/Animation", Animax
-http://180.183.7.69:1009
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids/Animation",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Kids/Animation",Aniplus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids/Animation",Animax
-http://rr.dens.tv/h/h18/index.m3u8
+http://180.183.7.69:1009
 #EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids/Animation",Aniplus
-http://rr.dens.tv/h/h02/index.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
 http://livecdnh1.tvanywhere.ae:80/hls/baby/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="Kids/Animation", Boomerang
