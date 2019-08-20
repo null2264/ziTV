@@ -26,21 +26,19 @@ http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/220px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="920" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
-http://rr2.dens.tv/s/s12/index.m3u8
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/200px-KOMPAS_TV_%282017%29.png" group-title="Indonesia",KompasTV
-http://rr2.dens.tv/s/s09/index.m3u8
+http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Indonesia",UseeSports
 http://api.useetv.com/telin/live/infoworldcup/index.m3u8?stime=20180929020000&etime=20180929060000&encoded=0fba4f711a644796fda64
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
 http://118.97.50.97/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Indonesia",TVRI Sports HD
-http://rr2.dens.tv/s/s48/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Sumsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Indonesia",T Music
 http://118.97.167.8/jhos/allegro.m3u8?stime=20181027100000&etime=20191027120000&encoded=0c20110b533c08b87afa5
 #EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="Indonesia",Thrill
-http://rr2.dens.tv/s/s34/index.m3u8
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Indonesia",Beritasatu English	
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-chno="301" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/BeritaSatu.png/220px-BeritaSatu.png" group-title="Indonesia",Beritasatu News	
