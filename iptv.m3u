@@ -221,18 +221,20 @@ http://rr.dens.tv/h/h18/index.m3u8
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Malaysia",Bernama News
-http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://qes.com.my/wp-content/uploads/QES-projects-bernama.png" group-title="Malaysia", Astro awani
-http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia",Astro Awani (Opt-1)
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia",Astro Awani (Opt-2)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Malaysia", Malaysia1news
 http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 #EXTINF:-1 group-title="Malaysia", TVi
 http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="Malaysia", TV1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia", TV2
-http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rtm-images.gluempsapp.com/1024x768/live_stream/1-TV1.jpg" group-title="Malaysia", RTM1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="Malaysia", RTM2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 #EXTINF:-1 group-title="China",CCTV 4
 http://rr2.dens.tv/s/s19/index.m3u8
 #EXTINF:-1 group-title="China", CGTN Documentary
