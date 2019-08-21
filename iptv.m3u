@@ -110,11 +110,11 @@ http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
-http://rr.dens.tv/h/h11/index.m3u8
+http://210.210.155.35/uq2663/h/h11/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
-http://rr.dens.tv/h/h37/index.m3u8
+http://210.210.155.35/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",K+
-http://rr.dens.tv/h/h08/index.m3u8
+http://210.210.155.35/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment",K Drama
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg" group-title="Entertainment",KIX
