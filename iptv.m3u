@@ -217,6 +217,10 @@ http://23.237.22.82:8086/udp/127.0.0.1:56047
 http://rr.dens.tv/h/h20/index.m3u8
 #EXTINF:-1 group-title="Japan", NHK World
 http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbc2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Malaysia",Bernama News
 http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://qes.com.my/wp-content/uploads/QES-projects-bernama.png" group-title="Malaysia", Astro awani
