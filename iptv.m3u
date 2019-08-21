@@ -23,6 +23,8 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
 http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="924" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/eb/CNN_Indonesia.svg/220px-CNN_Indonesia.svg.png" group-title="Indonesia",CNN Indonesia HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="920" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
