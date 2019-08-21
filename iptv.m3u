@@ -107,7 +107,7 @@ http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 http://rr.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
 http://23.237.22.82:8086/udp/127.0.0.1:56163
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",CinemaWorld
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Entertainment",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 tvg-chno="334" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
