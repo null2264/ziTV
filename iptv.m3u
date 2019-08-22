@@ -3,10 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-chno="8" tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="8" tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [1]
@@ -15,31 +15,31 @@ http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [2]
 http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-chno="9" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
+#EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-chno="9" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/150px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/150px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
 http://id2.indostreamingtv.com/live/tv2/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/220px-GTV_%282017%29.svg.png" group-title="Indonesia",GTV
+#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/220px-GTV_%282017%29.svg.png" group-title="Indonesia",GTV
 http://202.80.222.169:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-chno="390" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" group-title="Indonesia",NET.TV HD [1]
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-chno="390" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" group-title="Indonesia",NET.TV HD [1]
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="390" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="Indonesia",NET. TV HD [2]
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-chno="390" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="Indonesia",NET. TV HD [2]
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNCTV
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNCTV
 http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
 
-#EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
 http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
@@ -57,7 +57,7 @@ http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Indonesia",UseeSports
 http://api.useetv.com/telin/live/infoworldcup/index.m3u8?stime=20180929020000&etime=20180929060000&encoded=0fba4f711a644796fda64
 
-#EXTINF:-1 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
 http://118.97.50.97/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Sumsel
@@ -66,7 +66,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Indonesia",T Music
 http://118.97.167.8/jhos/allegro.m3u8?stime=20181027100000&etime=20191027120000&encoded=0c20110b533c08b87afa5
 
-#EXTINF:-1 tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="Indonesia",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="Indonesia",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:-1 group-title="Indonesia",Beritasatu English	
@@ -114,7 +114,7 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BloombergTV.us.png" group-title="News",Bloomberg Australia
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV
 http://rr.dens.tv/h/h03/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg Asia
@@ -144,7 +144,7 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
 http://92.43.140.249/s27/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="News", FOX Business Network
@@ -171,7 +171,7 @@ http://190.2.154.164:8082/TV0659
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 
-#EXTINF:-1 tvg-id="I236.10989.zap2it.com" tvg-name="E" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
 http://rr.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
@@ -180,10 +180,10 @@ http://23.237.22.82:8086/udp/127.0.0.1:56163
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Entertainment",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 
-#EXTINF:-1 tvg-chno="334" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
+#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="334" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
 http://210.210.155.35/uq2663/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",K+
@@ -204,7 +204,7 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids/Animation",Animax
 http://180.183.7.69:1009
 
-#EXTINF:-1 tvg-id="AniPlus" tvg-name="AniPlus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids/Animation",Aniplus
+#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids/Animation",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
@@ -219,13 +219,13 @@ http://93.107.103.248:8123/play/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="I291.12510.zap2it.com" tvg-name="DISNP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
+#EXTINF:-1 tvg-id="DISNP" tvg-name="Disney" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior
+#EXTINF:-1 tvg-id="DISJNR" tvg-name="Disney Junior US" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior [ID]
+#EXTINF:-1 tvg-id="DISJNRID" tvg-name="Disney Junior ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior [ID]
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
@@ -345,10 +345,10 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
+#EXTINF:-1 tvg-id="FOXSp1" tvg-name="FOX Sports" tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
+#EXTINF:-1 tvg-id="FOXSp2" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1 group-title="Sports",Super Soccer TV
