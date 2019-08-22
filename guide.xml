@@ -26,6 +26,62 @@
 		<display-name>DISNP</display-name>
 		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/12510/s10171_h3_aa.png" />
 	</channel>
+	<channel id="AniPlus">
+		<display-name>AniPlus</display-name>
+		<icon src="https://zap2it.tmsimg.com/h3/NowShowing/10989/s10989_h3_aa.png" />
+	</channel>
+	<programme start="20190822000000 +0800" stop="20190822003000 +0800" channel="AniPlus">
+		<title lang="en">Ensemble Stars!</title>
+		<desc lang="en">In Yumenosaki Private Academy, Hokuto Hidaka, Subaru Akehoshi, Makoto Yuki and Mao Isara are members of the idol unit Trickstar. Striving to become top idols, the four work their hardest to compete in the "Dream Fes" and seek a revolution by going against the academy's dominating authority-the student council.</desc>
+		<date>2019</date>
+		<category lang="en">Anime</category>
+		<length units="minutes">23</length>
+		<icon src="https://cdn.myanimelist.net/images/anime/1504/100488.jpg" />
+		<episode-num system="common">S01E07</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG-13</value>
+		</rating>
+	</programme>
+	<programme start="20190822003000 +0800" stop="20190822010000 +0800" channel="AniPlus">
+		<title lang="en">Kemono Friends 2</title>
+		<desc lang="en">The Animal Girls of Kemono Friends are back for an all-new season. Embark on a fun-filled adventure in Japari Park!!</desc>
+		<date>2019</date>
+		<category lang="en">Anime</category>
+		<length units="minutes">22</length>
+		<icon src="https://cdn.myanimelist.net/images/anime/1015/100471.jpg" />
+		<episode-num system="common">S02E01</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG-13</value>
+		</rating>
+	</programme>	
+	<programme start="20190822010000 +0800" stop="20190822013000 +0800" channel="AniPlus">
+		<title lang="en">GRANBLUE FANTASY The Animation</title>
+		<desc lang="en">This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries.</desc>
+		<date>2019</date>
+		<category lang="en">Anime</category>
+		<length units="minutes">23</length>
+		<icon src="https://cdn.myanimelist.net/images/anime/2/81630.jpg" />
+		<episode-num system="common">S01E04</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG-13</value>
+		</rating>
+	</programme>
+	<programme start="20190822013000 +0800" stop="20190822020000 +0800" channel="AniPlus">
+		<title lang="en">GRANBLUE FANTASY The Animation</title>
+		<desc lang="en">This is a world of the skies, where many islands drift in the sky. A boy named Gran and a talking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries.</desc>
+		<date>2019</date>
+		<category lang="en">Anime</category>
+		<length units="minutes">23</length>
+		<icon src="https://cdn.myanimelist.net/images/anime/2/81630.jpg" />
+		<episode-num system="common">S01E05</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>PG-13</value>
+		</rating>
+	</programme>
 	<programme start="20190822070000 +0700" stop="20190822100000 +0700" channel="I236.10989.zap2it.com">
 		<title lang="en">Hitch</title>
 		<desc lang="en">A smooth-talking man (Will Smith) falls for a hardened columnist (Eva Mendes) while helping a shy accountant (Kevin James) woo a beautiful heiress.</desc>
