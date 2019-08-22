@@ -171,7 +171,7 @@ http://190.2.154.164:8082/TV0659
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 
-#EXTINF:-1 tvg-id="EP" tvg-name="EP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
+#EXTINF:-1 tvg-id="I236.10989.zap2it.com" tvg-name="E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
 http://rr.dens.tv/h/h10/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
@@ -219,7 +219,7 @@ http://93.107.103.248:8123/play/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
+#EXTINF:-1 tvg-id="I291.12510.zap2it.com" tvg-name="DISNP" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior
