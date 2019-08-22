@@ -82,6 +82,19 @@
 			<value>PG-13</value>
 		</rating>
 	</programme>
+	<programme start="20190822080000 +0800" stop="20190822083000 +0800" channel="AniPlus">
+		<title lang="en">Knights of Sidonia</title>
+		<desc lang="en"></desc>
+		<date>2019</date>
+		<category lang="en">Anime</category>
+		<length units="minutes">24</length>
+		<icon src="https://cdn.myanimelist.net/images/anime/12/53257.jpg" />
+		<episode-num system="common">S01E08</episode-num>
+		<subtitles type="teletext" />
+		<rating>
+			<value>R-17</value>
+		</rating>
+	</programme>	
 	<programme start="20190822070000 +0700" stop="20190822100000 +0700" channel="I236.10989.zap2it.com">
 		<title lang="en">Hitch</title>
 		<desc lang="en">A smooth-talking man (Will Smith) falls for a hardened columnist (Eva Mendes) while helping a shy accountant (Kevin James) woo a beautiful heiress.</desc>
