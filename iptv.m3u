@@ -351,6 +351,9 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
+http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
+
 #EXTINF:-1 tvg-id="FOXSp1" tvg-name="FOX Sports" tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
 http://23.237.22.82:8086/udp/127.0.0.1:56046
 
@@ -362,6 +365,8 @@ http://210.210.155.35/uq2663/h/h20/index2.m3u8
 
 #EXTINF:-1 group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Japan", NHK World
