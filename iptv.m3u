@@ -204,6 +204,9 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", My Cinema
 http://210.210.155.35:80/qwr9ew/s/s31/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Entertainment", ONE TV
+http://210.210.155.35:80/uq2663/h/h143/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="Entertainment", TV5MONDE Asie
 http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 
