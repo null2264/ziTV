@@ -172,7 +172,7 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 http://190.2.154.164:8082/TV0659
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia [1]
-http://210.210.155.35:80/uq2663/h/h141/index.m3u8
+http://210.210.155.35:80/uq2663/h/h141/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia [2]
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
