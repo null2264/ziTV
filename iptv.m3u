@@ -177,6 +177,12 @@ http://210.210.155.35:80/uq2663/h/h141/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia [2]
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="Entertainment", Blue Ant Entertainment
+http://210.210.155.35:80/dr9445/h/h16/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="Entertainment", Blue Ant Extreme
+http://210.210.155.35:80/dr9445/h/h15/index2.m3u8
+
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
 http://210.210.155.35/uq2663/h/h10/index2.m3u8
 
