@@ -171,7 +171,10 @@ https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Entertainment", Asian Food Channel
 http://190.2.154.164:8082/TV0659
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia [1]
+http://210.210.155.35:80/uq2663/h/h141/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia [2]
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
@@ -205,7 +208,7 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 http://210.210.155.35:80/qwr9ew/s/s31/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Entertainment", ONE TV
-http://210.210.155.35:80/uq2663/h/h143/index.m3u8
+http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="Entertainment", TV5MONDE Asie
 http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
