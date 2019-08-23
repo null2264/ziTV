@@ -144,7 +144,7 @@ http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="CNNInt" tvg-name="CNNInt" tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
 http://92.43.140.249/s27/04.m3u8
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="News",DW
@@ -213,7 +213,7 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", My Cinema
 http://210.210.155.35:80/qwr9ew/s/s31/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Entertainment", ONE TV
+#EXTINF:-1 tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Entertainment", ONE TV
 http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="Entertainment", TV5MONDE Asie
@@ -222,7 +222,7 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://asie.tv5monde.com/App_Themes/tv5monde/img/Style-logo-hd.png" group-title="Entertainment", TV5MONDE Style
 http://210.210.155.35:80/uq2663/h/h01/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Entertainment", Zee Bioskop
+#EXTINF:-1 tvg-id="ZEE" tvg-name="ZEE" tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Entertainment", Zee Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/index2.m3u8
 
 
@@ -249,7 +249,7 @@ http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids/Animation",Cartoonito
 http://93.107.103.248:8123/play/cartoonito/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-4" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="DISNP" tvg-name="Disney" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
@@ -264,10 +264,10 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
 http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS [1]
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS [2]
 http://210.210.155.35:80/uq2663/h/h43/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="Kids/Animation",Nickelodeon
