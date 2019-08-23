@@ -54,8 +54,8 @@ http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomai
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/200px-KOMPAS_TV_%282017%29.png" group-title="Indonesia",KompasTV
 http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/5b/UseeTV.png" group-title="Indonesia",UseeSports
-http://api.useetv.com/telin/live/infoworldcup/index.m3u8?stime=20180929020000&etime=20180929060000&encoded=0fba4f711a644796fda64
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="Indonesia",MYTV
+http://210.210.155.35:80/uq2663/h/h40/index2.m3u8
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI
 http://118.97.50.97/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
