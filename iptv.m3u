@@ -67,7 +67,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 http://118.97.167.8/jhos/allegro.m3u8?stime=20181027100000&etime=20191027120000&encoded=0c20110b533c08b87afa5
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-chno="297" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="Indonesia",Thrill
-http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
 #EXTINF:-1 group-title="Indonesia",Beritasatu English	
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -82,7 +82,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia",DAAI TV
-http://rr2.dens.tv/s/s13/index.m3u8
+http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
 
 #EXTINF:-1 group-title="Indonesia",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -115,7 +115,7 @@ https://1674331492.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg TV
-http://210.210.155.35/uq2663/h/h03/index.m3u8
+http://210.210.155.35/uq2663/h/h03/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="News",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
@@ -172,28 +172,31 @@ http://190.2.154.164:8082/TV0659
 http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
-http://210.210.155.35/uq2663/h/h10/index.m3u8
+http://210.210.155.35/uq2663/h/h10/index2.m3u8
 
 #EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
 http://23.237.22.82:8086/udp/127.0.0.1:56163
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Entertainment",CinemaWorld
-http://210.210.155.35/uq2663/h/h04/index.m3u8
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
 #EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="334" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
-http://210.210.155.35/uq2663/h/h11/index.m3u8
+http://210.210.155.35/uq2663/h/h11/index2.m3u8
+
+#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/gem_logo_new.png" group-title="Entertainment", Gem TV
+http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
-http://210.210.155.35/uq2663/h/h37/index.m3u8
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",K+
-http://210.210.155.35/uq2663/h/h08/index.m3u8
+http://210.210.155.35/uq2663/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment",K Drama
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg" group-title="Entertainment",KIX
-http://rr.dens.tv/h/h07/index.m3u8
+http://210.210.155.35/uq2663/h/h07/index2.m3u8
 
 
 
@@ -352,13 +355,13 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1 group-title="Sports",Super Soccer TV
-http://rr.dens.tv/h/h20/index.m3u8
+http://210.210.155.35/uq2663/h/h20/index2.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Japan", NHK World
-http://rr.dens.tv/h/h18/index.m3u8
+http://210.210.155.35/uq2663/h/h18/index.m3u8
 
 
 
@@ -397,26 +400,19 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m
 
 
 #EXTINF:-1 group-title="China",CCTV 4
-http://rr2.dens.tv/s/s19/index.m3u8
+http://210.210.155.35/qwr9ew/s/s19/index2.m3u8
 
 #EXTINF:-1 group-title="China", CGTN Documentary
-http://rr2.dens.tv/s/s20/index.m3u8
+http://210.210.155.35/qwr9ew/s/s20/index2.m3u8
 
 #EXTINF:-1 group-title="China",Phoenix TV
-http://rr2.dens.tv/s/s21/index.m3u8
+http://210.210.155.35/qwr9ew/s/s21/index2.m3u8
 
 #EXTINF:-1 group-title="China",Celestial Movies
-http://rr2.dens.tv/s/s33/index.m3u8
+http://210.210.155.35/qwr9ew/s/s33/index2.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Rusia",RT
-http://rr2.dens.tv/s/s23/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Test",Test Channel
-http://stream.tvtap.net:8081/live/cn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMS8yMDE4IDg6Mjk6MDQgQU0maGFzaF92YWx1ZT1paUVVbkQ2dmF5SW14dnJwUzkzUkN3PT0mdmFsaWRtaW51dGVzPTIw
-
+http://210.210.155.35/qwr9ew/s/s23/index2.m3u8
