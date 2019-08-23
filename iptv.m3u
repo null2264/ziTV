@@ -243,6 +243,9 @@ http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS
+http://210.210.155.35:80/uq2663/h/h43/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="Kids/Animation",Nickelodeon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f54
 
