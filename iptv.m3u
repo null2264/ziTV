@@ -210,6 +210,9 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://asie.tv5monde.com/App_Themes/tv5monde/img/Style-logo-hd.png" group-title="Entertainment", TV5MONDE Style
 http://210.210.155.35:80/uq2663/h/h01/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Entertainment", Zee Bioskop
+http://210.210.155.35:80/qwr9ew/s/s32/index2.m3u8
+
 
 
 
