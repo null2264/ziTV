@@ -384,6 +384,9 @@ http://210.210.155.35/uq2663/h/h20/index2.m3u8
 #EXTINF:-1 group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
+#EXTINF:-1 group-title="Sports",DensPlay
+http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
+
 
 
 
