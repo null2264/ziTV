@@ -265,7 +265,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/997452/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=54b024e4-d1d9-4962-99a9-08ff1f675198&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
 
 
 
@@ -383,6 +383,9 @@ http://210.210.155.35/uq2663/h/h20/index2.m3u8
 
 #EXTINF:-1 group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
+
+#EXTINF:-1 group-title="Sports",MNC Sports
+http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 group-title="Sports",DensPlay
 http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
