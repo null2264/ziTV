@@ -237,8 +237,11 @@ http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids/Animation",Cartoonito
 http://93.107.103.248:8123/play/cartoonito/index.m3u8
 
-#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-4" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-4" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [1]
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-4" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [2]
+http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
@@ -268,7 +271,7 @@ http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/572723/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=7d77a1f2-17a1-4bb7-b526-621d2bc07f39&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/997452/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=54b024e4-d1d9-4962-99a9-08ff1f675198&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
+http://185.246.209.109:8080/NICKJR/mono.m3u8
 
 
 
@@ -291,14 +294,23 @@ http://190.2.154.164:8082/TV0687
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning", National Geo
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning", National Geo HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning", National Geo Wild
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning", National Geo SD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning", National Geo Wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Learning", National Geo People
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning", National Geo Wild SD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Learning", National Geo People HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Learning", National Geo People SD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/SmithsonianChannel.us.png" group-title="Learning",  Smithsonian Channel
 http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
@@ -379,7 +391,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c7570
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
 
 #EXTINF:-1 tvg-id="FOXSp1" tvg-name="FOX Sports" tvg-shift="-4" tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
-http://23.237.22.82:8086/udp/127.0.0.1:56046
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSp2" tvg-name="FOX Sports 2" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
