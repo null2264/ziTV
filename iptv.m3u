@@ -4,43 +4,43 @@
 
 
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="8" tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
 https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [1]
-http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-chno="13" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Antv_logo_%282017%29.svg/200px-Antv_logo_%282017%29.svg.png" group-title="Indonesia",ANTV [2]
-http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
-http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-chno="9" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
 http://id6.indostreamingtv.com/live/tv33/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/150px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
-http://id2.indostreamingtv.com/live/tv2/index.m3u8
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" group-title="Indonesia",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/220px-GTV_%282017%29.svg.png" group-title="Indonesia",GTV
-http://202.80.222.169:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.169:80/000001/2/ch14041511505498448705/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-chno="390" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Netmediatama.png/200px-Netmediatama.png" group-title="Indonesia",NET.TV HD [1]
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-chno="390" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="Indonesia",NET. TV HD [2]
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNCTV
-http://tv.rumahstreaming.stream:89/03ad6b442e20f7f3mnctv/lives/chunks.m3u8?nimblesessionid=346498
+http://202.80.222.182:80/000001/2/ch14041511111714365733/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
-http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.169:80/000001/2/ch14061215030555428637/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
@@ -49,10 +49,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="920" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/200px-Rajawali_Televisi.svg.png" group-title="Indonesia",RTV
-http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/200px-KOMPAS_TV_%282017%29.png" group-title="Indonesia",KompasTV
-http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?virtualDomain=000001.live_hls.zte.com
+http://202.80.222.130/000001/2/ch00000090990000001730/1001.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Mayapada_TV.png/200px-Mayapada_TV.png" group-title="Indonesia",MYTV
 http://210.210.155.35:80/uq2663/h/h40/index2.m3u8
