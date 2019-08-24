@@ -87,20 +87,8 @@ http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
 #EXTINF:-1 group-title="Indonesia",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia",SuperSoccer TV
-http://live.livecast.cc:1935/live/ch24-1/livestream.m3u8
-
 #EXTINF:-1 group-title="Indonesia",TV Edukasi
 http://118.97.167.8/jhos/tvedukasi.m3u8?stime=20181027100000&etime=20181027120000&encoded=076ca25c800a19df199d4
-
-#EXTINF:-1 group-title="Indonesia",Klik Music
-http://stream1.ninmedia.tv/live/xmedia-klikmusictv.stream_nin/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia",MKTV
-http://stream1.ninmedia.tv/live/xmedia-mktv.stream_nin/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia",Saluran Film Indonesia
-http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/playlist.m3u8
 
 
 
