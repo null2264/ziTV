@@ -255,6 +255,9 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
 http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
+http://212.112.101.69:8081/stream38/output.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS [1]
 http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 
