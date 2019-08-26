@@ -264,13 +264,13 @@ http://210.210.155.35:80/uq2663/h/h43/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="Kids/Animation",Nickelodeon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f54
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
+#EXTINF:-1 tvg-id="NICKTNS" tvg-name="NICKTNS" tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/572723/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=7d77a1f2-17a1-4bb7-b526-621d2bc07f39&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
 http://185.246.209.109:8080/NICKJR/mono.m3u8
 
 
