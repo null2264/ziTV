@@ -132,7 +132,10 @@ http://220.158.149.14:9999/live/TV00000000000000000018@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/150px-CNA_new_logo.svg.png" group-title="News",CNA
 http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN HD
+http://185.246.209.109:8080/CNN/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN US HD
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNNInt" tvg-name="CNNInt" tvg-logo="https://static.iptv-epg.com/gb/CNN.uk.png" group-title="News",CNN International
@@ -395,6 +398,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c7570
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
+http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSp1" tvg-name="FOX Sports" tvg-shift="-4" tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
