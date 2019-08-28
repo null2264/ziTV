@@ -39,7 +39,10 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-chno="116" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="Indonesia",NET. TV HD [2]
 http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNCTV
+#EXTINF:-1 tvg-id="MNCNews" tvg-name="MNCNews" tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNC News
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/220px-MNCTV_logo_2015.svg.png" group-title="Indonesia",MNC TV
 http://202.80.222.182:80/000001/2/ch14041511111714365733/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-chno="97" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7e/TvOne_Logo%282011%29.svg/180px-TvOne_Logo%282011%29.svg.png" group-title="Indonesia",TVOne
@@ -156,6 +159,9 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",Voice of America
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",VOA Indonesia
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
 
 
 
@@ -177,8 +183,11 @@ http://210.210.155.35:80/dr9445/h/h15/index2.m3u8
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
 http://210.210.155.35/uq2663/h/h10/index2.m3u8
 
-#EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX
+#EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX [1]
 http://23.237.22.82:8086/udp/127.0.0.1:56163
+
+#EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX [2]
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Entertainment",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
@@ -241,12 +250,18 @@ http://185.246.209.109:8080/BOOMERANG/index.m3u8
 http://93.107.103.248:8123/play/cartoonito/index.m3u8
 
 #EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [1]
-http://162.210.195.121:8080/CartoonNetwork/index.m3u8
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [2]
+http://162.210.195.121:8080/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [3]
 http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel
+#EXTINF:-1 tvg-chno="45" tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel [1]
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:-1 tvg-chno="45" tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel [2]
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 
 #EXTINF:-1 tvg-chno="43" tvg-id="DISJNR" tvg-name="Disney Junior US" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior
@@ -267,14 +282,14 @@ http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",my KIDS [2]
 http://210.210.155.35:80/uq2663/h/h43/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="Kids/Animation",Nickelodeon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f54
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/572723/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=7d77a1f2-17a1-4bb7-b526-621d2bc07f39&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/220px-Nickelodeon_2009_logo.svg.png" group-title="Kids/Animation",Nick Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
 #EXTINF:-1 tvg-id="NICKTNS" tvg-name="NICKTNS" tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
 http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/572723/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=7d77a1f2-17a1-4bb7-b526-621d2bc07f39&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
 
 #EXTINF:-1 tvg-chno="37" tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
 http://185.246.209.109:8080/NICKJR/mono.m3u8
@@ -295,7 +310,7 @@ http://190.2.154.164:8082/TV0657
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/HistoryChannel.ph.png" group-title="Learning",History
-http://190.2.154.164:8082/TV0687
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&amp;profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/se/History2.se.png" group-title="Learning",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -324,17 +339,14 @@ http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HallmarkMoviesMysteries.us.png" group-title="Movies", Hallmark Movies & Mysteries
-http://23.237.22.82:8086/udp/127.0.0.1:56067
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/Cinemax.ph.png" group-title="Movies",Cinemax
-http://190.2.154.164:8082/TV0688
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FOXMovies.qa.png" group-title="Movies",Fox Movies
-http://190.2.154.164:8082/TV0689
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FOXMoviesAction.qa.png" group-title="Movies",Fox Action Movies
-http://190.2.154.164:8082/TV0691
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=B2CA17472AD2DCA7D982B2D2C0E59FA9EA408411&profile=pass
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FOXMoviesFamily.qa.png" group-title="Movies",Fox Family Movies
+http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/FXNow.ca.png" group-title="Movies",FX
 http://23.237.22.82:8086/udp/127.0.0.1:56250
@@ -384,17 +396,23 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 group-title="Music",HIT TV
 http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
 
-#EXTINF:-1 group-title="Music",XITE
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title="Music",Monstercat
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bbf3e58ad7c757009427/572723/playlist.m3u8?terminate=false&deviceId=bc747401-864b-4ecc-bea2-7d8d74ce4629&deviceVersion=62.0.3331.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=54b024e4-d1d9-4962-99a9-08ff1f675198&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=
+
+#EXTINF:-1 group-title="Music",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="Music",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESPN
+http://80.80.160.168/live/6/2500000/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",ESPN 2
 http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
