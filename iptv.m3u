@@ -3,10 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="110" tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7 [1]
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="110" tvg-logo="https://i.imgur.com/rEYKPMK.png" group-title="Indonesia",Trans 7 [1]
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="110" tvg-logo="https://www.firstmedia.com/files/packages/channel_trans7.jpg" group-title="Indonesia",Trans 7 [2]
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-chno="110" tvg-logo="https://i.imgur.com/rEYKPMK.png" group-title="Indonesia",Trans 7 [2]
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-chno="80" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Indonesia",RCTI
@@ -21,7 +21,7 @@ http://202.80.222.171/000001/2/ch14061215034900095272/index.m3u8?zte_bandwidth=1
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-chno="78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Indonesia",Indosiar
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-chno="87" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png" group-title="Indonesia",Trans TV
+#EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-chno="87" tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://i.imgur.com/HObIgUR.png" group-title="Indonesia",Trans TV
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-chno="89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/150px-SCTV_Logo.svg.png" group-title="Indonesia",SCTV
@@ -69,7 +69,7 @@ http://118.97.50.97/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/200px-TVRILogo2019.svg.png" group-title="Indonesia",TVRI Sumsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-chno="19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Thrill_logo.jpg/200px-Thrill_logo.jpg" group-title="Indonesia",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-chno="19" tvg-logo="https://i.imgur.com/2oJDzRN.png" group-title="Indonesia",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
 #EXTINF:-1 group-title="Indonesia",Beritasatu English	
@@ -156,10 +156,10 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/France24English.fr.png" group-title="News",France 24 English [2]
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",Voice of America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1zdycl.png" group-title="News",Voice of America
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.chinafile.com/sites/default/files/assets/images/publication/logo_featured/voice_of_america_logo-feature.png" group-title="News",VOA Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1zdycl.png" group-title="News",VOA Indonesia
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 
@@ -192,13 +192,13 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE3414
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Entertainment",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="162" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
+#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="162" tvg-logo="https://i.imgur.com/hwP1Nrq.png" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index2.m3u8
 
 #EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-chno="155" tvg-logo="https://i.imgur.com/aIayOaL.png" group-title="Entertainment", Gem TV
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
-#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-chno="169" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-chno="169" tvg-logo="https://i.imgur.com/OdcGg5v.png" group-title="Entertainment",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTvWjQB.png" group-title="Entertainment",K+
@@ -207,7 +207,7 @@ http://210.210.155.35/uq2663/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment",K Drama
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
-#EXTINF:-1 tvg-chno="161" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg" group-title="Entertainment",KIX
+#EXTINF:-1 tvg-chno="161" tvg-logo="https://i.imgur.com/cjkAVT4.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", My Cinema
@@ -264,10 +264,10 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 #EXTINF:-1 tvg-chno="45" tvg-id="DISNP" tvg-name="DISNP" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel [2]
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 
-#EXTINF:-1 tvg-chno="43" tvg-id="DISJNRID" tvg-name="Disney Junior ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior [1 - ID]
+#EXTINF:-1 tvg-chno="43" tvg-id="DISJNRID" tvg-name="Disney Junior ID" tvg-logo="https://i.imgur.com/d2WeV4J.png" group-title="Kids/Animation",Disney Junior [1 - ID]
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-id="DISJNR" tvg-name="Disney Junior US" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f4/Disney_Junior.jpg/200px-Disney_Junior.jpg" group-title="Kids/Animation",Disney Junior [2]
+#EXTINF:-1 tvg-chno="43" tvg-id="DISJNR" tvg-name="Disney Junior US" tvg-shift="-4" tvg-logo="https://i.imgur.com/d2WeV4J.png" group-title="Kids/Animation",Disney Junior [2]
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
