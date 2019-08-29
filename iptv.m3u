@@ -195,13 +195,13 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="162" tvg-logo="https://en.wikipedia.org/wiki/File:Diva_logo.svg" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index2.m3u8
 
-#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-chno="155" tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/gem_logo_new.png" group-title="Entertainment", Gem TV
+#EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-chno="155" tvg-logo="https://i.imgur.com/aIayOaL.png" group-title="Entertainment", Gem TV
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-chno="169" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment",HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.kplus-asia.com/img/title/logo.png" group-title="Entertainment",K+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTvWjQB.png" group-title="Entertainment",K+
 http://210.210.155.35/uq2663/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" group-title="Entertainment",K Drama
@@ -213,7 +213,7 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", My Cinema
 http://210.210.155.35:80/qwr9ew/s/s31/index2.m3u8
 
-#EXTINF:-1 tvg-chno="164" tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/sonysetone_logo.png" group-title="Entertainment", ONE TV
+#EXTINF:-1 tvg-chno="164" tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://i.imgur.com/6g7l6ZT.png" group-title="Entertainment", ONE TV
 http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="Entertainment", TV5MONDE Asie
@@ -231,13 +231,13 @@ http://210.210.155.35:80/qwr9ew/s/s32/index2.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids/Animation",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids/Animation",Animax [1]
+#EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/CFO9wx0.png" group-title="Kids/Animation",Animax [1]
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" group-title="Kids/Animation",Animax [2]
+#EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/CFO9wx0.png" group-title="Kids/Animation",Animax [2]
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
-#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" group-title="Kids/Animation",Aniplus
+#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/VZsOzUZ.png" group-title="Kids/Animation",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
