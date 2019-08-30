@@ -255,13 +255,13 @@ http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Cartoonito.uk.png" group-title="Kids/Animation",Cartoonito
 http://93.107.103.248:8123/play/cartoonito/index.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [1 - ID]
+#EXTINF:-1 tvg-chno="47" tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [1 - ID]
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
-#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [2]
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [2]
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network [3]
+#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [3]
 http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel [1 - ID]
