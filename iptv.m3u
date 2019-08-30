@@ -500,6 +500,9 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m
 #EXTINF:-1 group-title="China",CCTV 4
 http://210.210.155.35/qwr9ew/s/s19/index2.m3u8
 
+#EXTINF:-1 group-title="China",CCTV 4 [UseeTV]
+https://cdnjt21.useetv.com/joss/14/cctv4/chunklist_w80971737_b684100_sleng.m3u8
+
 #EXTINF:-1 group-title="China", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/index2.m3u8
 
