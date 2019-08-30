@@ -189,6 +189,9 @@ http://210.210.155.35:80/dr9445/h/h15/index2.m3u8
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/24px-E%21_Logo_2012.svg.png" group-title="Entertainment",E! Entertainment
 http://210.210.155.35/uq2663/h/h10/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FliK
+https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="FOXP" tvg-name="FOXP" tvg-logo="https://static.iptv-epg.com/br/Fox.br.png" group-title="Entertainment", FOX [1]
 http://23.237.22.82:8086/udp/127.0.0.1:56163
 
@@ -285,6 +288,9 @@ https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
 http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",DreamWorks
+https://cdnjt21.useetv.com/joss/15/dreamworks/chunklist_w1551611297_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
 http://212.112.101.69:8081/stream38/output.m3u8
 
@@ -305,6 +311,9 @@ http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="37" tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nick Jr
 http://185.246.209.109:8080/NICKJR/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",Spacetoons Plus
+https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
 
 
 
@@ -439,6 +448,9 @@ http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSp2" tvg-name="FOX Sports 2" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group-title="Sports",Golf+
+https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
 
 #EXTINF:-1 group-title="Sports",MNC Sports
 http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
