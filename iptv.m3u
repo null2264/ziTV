@@ -81,17 +81,14 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 #EXTINF:-1 tvg-chno="304" group-title="Indonesia",Beritasatu World	
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1 group-title="Indonesia",TV9 Nusantara	
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+#EXTINF:-1 group-title="Indonesia",Bandung TV
+https://cdnmdc2.useetv.com/joss/14/bandungtv/chunklist_w1069317929_b684100_sleng.m3u8
 
 #EXTINF:-1 group-title="Indonesia",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index2.m3u8
 
-#EXTINF:-1 group-title="Indonesia",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-
-#EXTINF:-1 group-title="Indonesia",TV Edukasi
-http://118.97.167.8/jhos/tvedukasi.m3u8?stime=20181027100000&etime=20181027120000&encoded=076ca25c800a19df199d4
+#EXTINF:-1 group-title="Indonesia",Pelangi
+https://cdnjt25.useetv.com/joss/14/pelangi/chunklist_w1191901990_b684100_sleng.m3u8
 
 
 
@@ -204,6 +201,9 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="162" tvg-logo="https://i.imgur.com/hwP1Nrq.png" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", Eat & Go
+https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-chno="155" tvg-logo="https://i.imgur.com/aIayOaL.png" group-title="Entertainment", Gem TV
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
@@ -233,6 +233,9 @@ http://210.210.155.35:80/uq2663/h/h01/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Warner TV
 https://cdnjt25.useetv.com/joss/194/warner/chunklist_w1281670795_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",WakuWaku Japan
+https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="ZEE" tvg-name="ZEE" tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Entertainment", Zee Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/index2.m3u8
@@ -290,6 +293,12 @@ http://185.246.209.109:8080/DISNEY_XD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",DreamWorks
 https://cdnjt21.useetv.com/joss/15/dreamworks/chunklist_w1551611297_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",Dunia Anak
+https://cdnmdc2.useetv.com/joss/14/duniaanak/chunklist_w2089057539_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids/Animation",Horee!
+https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
 http://212.112.101.69:8081/stream38/output.m3u8
@@ -434,6 +443,12 @@ https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3
 
 
 
+#EXTINF:-1 group-title="Sports",BeIN Sports [ID]
+https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u8
+
+#EXTINF:-1 group-title="Sports",BeIN Sports 2 [ID]
+https://cdnjt21.useetv.com/joss/17/bein2/chunklist_w599886783_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
 
@@ -446,8 +461,17 @@ http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="FOXSp1" tvg-name="FOX Sports" tvg-shift="-4" tvg-logo="https://ya-webdesign.com/transparent450_/fox-sports-1-png-15.png" group-title="Sports", Fox Sport 1 US
 http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 group-title="Sports",Fox Sports [ID]
+https://cdnjt21.useetv.com/joss/17/foxsport1/chunklist_w1725905312_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="FOXSp2" tvg-name="FOX Sports 2" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
+
+#EXTINF:-1 group-title="Sports",Fox Sports 2 [ID]
+https://cdnjt21.useetv.com/joss/17/foxsport2/chunklist_w1048148931_b1344100_sleng.m3u8
+
+#EXTINF:-1 group-title="Sports",Fox Sports 3 [ID]
+https://cdnjt25.useetv.com/joss/17/foxsport3/chunklist_w1808412026_b1344100_sleng.m3u8
 
 #EXTINF:-1 group-title="Sports",Golf+
 https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
