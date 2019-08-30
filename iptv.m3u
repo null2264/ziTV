@@ -228,6 +228,9 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://asie.tv5monde.com/App_Themes/tv5monde/img/Style-logo-hd.png" group-title="Entertainment", TV5MONDE Style
 http://210.210.155.35:80/uq2663/h/h01/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Warner TV
+https://cdnjt25.useetv.com/joss/194/warner/chunklist_w1281670795_b1344100_sleng.m3u8
+
 #EXTINF:-1 tvg-chno="23" tvg-id="ZEE" tvg-name="ZEE" tvg-logo="https://www.zeebioskop.com/wp-content/uploads/sites/38/2019/06/76x50_R.png" group-title="Entertainment", Zee Bioskop
 http://210.210.155.35:80/qwr9ew/s/s32/index2.m3u8
 
@@ -242,6 +245,9 @@ http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
 #EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/CFO9wx0.png" group-title="Kids/Animation",Animax [2]
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-chno="157" tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/CFO9wx0.png" group-title="Kids/Animation",Animax [3 - UseeTV]
+https://cdnmdc2.useetv.com/joss/194/animax/chunklist_w1261412913_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/VZsOzUZ.png" group-title="Kids/Animation",Aniplus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
@@ -261,8 +267,8 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 #EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [2]
 http://162.210.195.121:8080/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="CNet" tvg-name="CNet" tvg-shift="-1" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [3]
-http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-shift="-1" tvg-logo="https://i.imgur.com/13HKTm4.png" group-title="Kids/Animation",Cartoon Network [3 - UseeTV]
+https://cdnmdc1.useetv.com/joss/194/cartoonnetwork/chunklist_w1874260401_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids/Animation",Disney Channel [1 - ID]
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
@@ -309,8 +315,11 @@ http://190.2.154.164:8082/TV0686
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/BBCEarth.id.png" group-title="Learning",BBC Earth
 http://190.2.154.164:8082/TV0656
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Learning",Discovery
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Learning",Discovery [1]
 http://190.2.154.164:8082/TV0657
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="Learning",Discovery [2 - UseeTV]
+https://cdnmdc1.useetv.com/joss/17/disco/chunklist_w1525615175_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.docuboxlive.com/img/docu_logo.png" group-title="Learning",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
@@ -411,6 +420,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 group-title="Music",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500.m3u8
 
+#EXTINF:-1 group-title="Music",T Music
+https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3u8
 
 
 
@@ -429,14 +440,17 @@ http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="FOXSp2" tvg-name="FOX Sports 2" tvg-shift="-4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1920px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sport 2 US
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
+#EXTINF:-1 group-title="Sports",MNC Sports
+http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 group-title="Sports",Super Soccer TV
 http://210.210.155.35/uq2663/h/h20/index2.m3u8
 
 #EXTINF:-1 group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
-#EXTINF:-1 group-title="Sports",MNC Sports
-http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Sports",UseeSports
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1112135570_b1344100_sleng.m3u8
 
 #EXTINF:-1 group-title="Sports",DensPlay
 http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
