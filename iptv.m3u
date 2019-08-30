@@ -207,9 +207,6 @@ https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Eat & Go
 https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", ESB In
-https://cdnmdc2.useetv.com/joss/17/sbsin/chunklist_w401887690_b1344100_sleng.m3u8
-
 #EXTINF:-1 tvg-id="GEMTV" tvg-name="GEMTV" tvg-chno="155" tvg-logo="https://i.imgur.com/aIayOaL.png" group-title="Entertainment", Gem TV
 http://210.210.155.35/uq2663/h/h19/index2.m3u8
 
@@ -230,6 +227,9 @@ http://210.210.155.35:80/qwr9ew/s/s31/index2.m3u8
 
 #EXTINF:-1 tvg-chno="164" tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://i.imgur.com/6g7l6ZT.png" group-title="Entertainment", ONE TV
 http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", SBS In
+https://cdnmdc2.useetv.com/joss/17/sbsin/chunklist_w401887690_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/200px-TV5Monde_Logo.svg.png" group-title="Entertainment", TV5MONDE Asie
 http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
