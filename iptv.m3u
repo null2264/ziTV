@@ -201,6 +201,9 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-chno="162" tvg-logo="https://i.imgur.com/hwP1Nrq.png" group-title="Entertainment",DIVA
 http://210.210.155.35/uq2663/h/h11/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Dunia Lain
+https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Eat & Go
 https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
 
@@ -372,6 +375,9 @@ http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Bioskop Indonesia
+https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b684100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ph/Cinemax.ph.png" group-title="Movies",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
@@ -387,6 +393,9 @@ http://23.237.22.82:8086/udp/127.0.0.1:56250
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FXX.us.png" group-title="Movies",FXX
 http://23.237.22.82:8086/udp/127.0.0.1:56251
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Galaxy
+https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w1678089549_b894100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBO.id.png" group-title="Movies",HBO
 http://190.2.154.164:8082/TV0690
 
@@ -401,6 +410,9 @@ http://203.207.56.228/live/iptv006.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/hbo-zone.png" group-title="Movies",HBO Zone
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",IMC
+https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
@@ -440,6 +452,9 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500.m3u8
 
 #EXTINF:-1 group-title="Music",T Music
 https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3u8
+
+#EXTINF:-1 group-title="Music",Prambors
+https://cdnmdc1.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
 
 
 
