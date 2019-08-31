@@ -75,7 +75,7 @@ https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
 https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI
-https://cdnjt12.useetv.com/jhos/tvri_2/1567213660/playlist.m3u8?stime=20190831080000&etime=20190831100000&encoded=0c3dd73dd1e2e85e04b4a
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Lokal",Daai TV
 https://cdnmdc1.useetv.com/joss/14/daaitv/chunklist_w1642806335_b684100_sleng.m3u8
@@ -211,6 +211,12 @@ https://cdnmdc1.useetv.com/joss/194/eentertainment/chunklist_w2143572012_b134410
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go
 https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png?v=2.0.0.13" group-title="Lifestyle", Fashion One
+https://cdnmdc2.useetv.com/joss/15/fashionone/chunklist_w1960066518_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="Lifestyle", Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.13" group-title="Lifestyle", Asian Food Channel
 https://cdnjt21.useetv.com/joss/17/afc/chunklist_w869016030_b1344100_sleng.m3u8
 
@@ -233,6 +239,9 @@ https://cdnmdc2.useetv.com/joss/194/diva/chunklist_w1358701468_b1344100_sleng.m3
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png?v=2.0.0.13" group-title="Entertainment",Hi Indo!
 http://cdnmdc1.useetv.com/joss/14/hiindo/chunklist_w1651024028_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ohk_small.png?v=2.0.0.13" group-title="Entertainment",Oh!K
+https://cdnkbl1.useetv.com/joss/17/ohk/chunklist_w1676023464_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sbsin_small.png?v=2.0.0.13" group-title="Entertainment",SBS In
 https://edgejt7.useetv.com/joss/17/sbsin/chunklist_w1291007925_b1344100_sleng.m3u8
@@ -292,3 +301,8 @@ https://cdnmdc1.useetv.com/joss/14/muhammadiyahtv/chunklist_w1526201683_b684100_
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi",Rodja TV
 https://cdnjt21.useetv.com/joss/14/rodjatv/chunklist_w670297089_b684100_sleng.m3u8
+
+##### Test #####
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Entertainment",Comedy Network
+https://raw.githubusercontent.com/null2264/myTV/master/channels/ComedyNetwork.m3u8
