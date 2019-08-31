@@ -301,8 +301,3 @@ https://cdnmdc1.useetv.com/joss/14/muhammadiyahtv/chunklist_w1526201683_b684100_
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Religi",Rodja TV
 https://cdnjt21.useetv.com/joss/14/rodjatv/chunklist_w670297089_b684100_sleng.m3u8
-
-##### Test #####
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Lokal",TVRI
-https://cdnjt23.useetv.com/jhos/tvri.m3u8?encoded=00e3b0d12466f6a26a7e8
