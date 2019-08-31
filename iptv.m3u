@@ -289,7 +289,7 @@ http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D
 http://yrsprts.xyz/hls/stream.m3u8?ch=dchannel
 
 #EXTINF:-1 tvg-chno="43" tvg-id="DISJNRID" tvg-name="Disney Junior ID" tvg-logo="https://i.imgur.com/d2WeV4J.png" group-title="Kids/Animation",Disney Junior [1 - ID]
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-chno="43" tvg-id="DISJNR" tvg-name="Disney Junior US" tvg-shift="-4" tvg-logo="https://i.imgur.com/d2WeV4J.png" group-title="Kids/Animation",Disney Junior [2]
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
@@ -515,6 +515,15 @@ http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101
 
 #EXTINF:-1 group-title="Japan", NHK World
 http://210.210.155.35:80/uq2663/h/h23/index2.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Korea", KBS1
+http://122.129.115.21:1935/edgedol/_definst_/tao107/playlist.m3u8
+
+#EXTINF:-1 group-title="Korea", KBS2
+http://122.129.115.21:1935/edgedol/_definst_/tao108/playlist.m3u8
 
 
 
