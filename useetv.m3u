@@ -114,7 +114,7 @@ https://cdnjt21.useetv.com/joss/15/nba/chunklist_w1855975795_b1344100_sleng.m3u8
 
 ##### News #####
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News",DW (English)
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News",DW (English)
 https://cdnmdc1.useetv.com/joss/14/dwtv/chunklist_w1529490975_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News",France 24
@@ -154,36 +154,36 @@ https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
 https://cdnmdc1.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
 
-##### Kids/Animation #####
+##### Kids #####
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small1.png?v=2.0.0.13" group-title="Kids/Animation",Baby First
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small1.png?v=2.0.0.13" group-title="Kids",Baby First
 https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="Kids/Animation",DuckTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png?v=2.0.0.13" group-title="Kids",DuckTV
 https://cdnjt21.useetv.com/joss/14/ducktv/chunklist_w1326586529_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids/Animation",Horee!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids",Horee!
 https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
 https://cdnmdc1.useetv.com/joss/194/cartoonnetwork/chunklist_w1874260401_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids/Animation",Dunia Anak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids",Dunia Anak
 https://cdnmdc2.useetv.com/joss/14/duniaanak/chunklist_w2089057539_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NICKJRID" tvg-name="NICKJRID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids/Animation",Nick Jr.
+#EXTINF:-1 tvg-id="NICKJRID" tvg-name="NICKJRID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr.
 https://cdnjt25.useetv.com/joss/194/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids/Animation",Nickelodeon
+#EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids",Nickelodeon
 https://cdnbdsa1.useetv.com/joss/194/nickelodeon/chunklist_w2138361028_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids/Animation",Da Vinci Learning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids/Animation",DreamWorks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
 https://cdnjt21.useetv.com/joss/15/dreamworks/chunklist_w1551611297_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids/Animation",Spacetoons Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids",Spacetoons Plus
 https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
 
 ##### Knowledge #####
@@ -205,7 +205,7 @@ https://cdnbal1.useetv.com/joss/14/cgtndocumentary/chunklist_w1148988809_b684100
 
 ##### Lifestyle #####
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="Lifestyle",E! Entertainment
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="Lifestyle",E! Entertainment
 https://cdnmdc1.useetv.com/joss/194/eentertainment/chunklist_w2143572012_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go
@@ -228,7 +228,7 @@ http://210.210.155.35:80/uq2663/h/h141/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Entertainment",Chinese Drama
 https://cdnbal1.useetv.com/joss/14/chinesedrama/chunklist_w879362197_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="Entertainment",DIVA
+#EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="Entertainment",DIVA
 https://cdnmdc2.useetv.com/joss/194/diva/chunklist_w1358701468_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png?v=2.0.0.13" group-title="Entertainment",Hi Indo!
