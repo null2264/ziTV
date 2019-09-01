@@ -296,6 +296,9 @@ https://cdnbdsa1.useetv.com/joss/14/alquran/chunklist_w1533116231_b684100_sleng.
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dmi_small1.png?v=2.0.0.13" group-title="Religi",DMI
 https://cdnbal1.useetv.com/joss/14/dmi/chunklist_w732164661_b684100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_khazanah_small1.png?v=2.0.0.13" group-title="Religi",Khazanah
+https://cdnbdsa1.useetv.com/joss/14/khazanah/chunklist_w902087431_b684100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi",MQTV
 https://cdnjt25.useetv.com/joss/14/mqtv/chunklist_w1185145390_b684100_sleng.m3u8
 
