@@ -228,6 +228,12 @@ https://cdnjt21.useetv.com/joss/17/afc/chunklist_w869016030_b1344100_sleng.m3u8
 
 ##### Entertainment #####
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="Entertainment",Citra Drama
+https://cdnjt21.useetv.com/joss/14/cdrama/chunklist_w793121764_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citraentertainment_small.png?v=2.0.0.13" group-title="Entertainment",Citra Entertainment
+https://cdnjt25.useetv.com/joss/14/centertainment/chunklist_w719511899_b684100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment",Dunia Lain
 https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
 
