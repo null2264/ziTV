@@ -210,7 +210,7 @@ https://cdnbpp1.useetv.com/joss/194/cartoonnetwork/chunklist_w1362718642_b684100
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
@@ -260,7 +260,7 @@ https://cdnjt21.useetv.com/joss/17/afc/chunklist_w869016030_b1344100_sleng.m3u8
 http://210.210.155.35/session/77dff652-d3b9-11e9-86e6-b82a72d63267/x6bnqe/s/s999/live.m3u8
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="Lifestyle",E! Entertainment
-http://210.210.155.35/uq2663/h/h10/index2.m3u8
+http://210.210.155.35/uq2663/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go
 https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
