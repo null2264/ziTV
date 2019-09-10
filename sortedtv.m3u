@@ -168,6 +168,9 @@ http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News",France 24
 http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
 ##### Movies #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
@@ -206,6 +209,9 @@ https://cdnbpp1.useetv.com/joss/194/cartoonnetwork/chunklist_w1362718642_b684100
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
 https://cdnjt21.useetv.com/joss/15/dreamworks/chunklist_w1551611297_b1344100_sleng.m3u8
