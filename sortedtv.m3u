@@ -136,25 +136,25 @@ https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1472169235_b1344100_slen
 ##### News #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News",Aljazeera
-https://edgejt7.useetv.com/joss/14/aljazeera/chunklist_w585423077_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="News",Bloomberg TV
 http://210.210.155.35/uq2663/h/h03/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News",CNA
-https://cdnmdc1.useetv.com/joss/14/newsasia/chunklist_w1642200784_b684100_sleng.m3u8
+http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News",DW (English)
-https://cdnmdc1.useetv.com/joss/14/dwtv/chunklist_w1529490975_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News",Euronews
-https://cdnmdc2.useetv.com/joss/14/euronews/chunklist_w1848901796_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News",France 24
-https://cdnbdsa1.useetv.com/joss/14/france24/chunklist_w1491354173_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
 ##### Movies #####
 
@@ -187,7 +187,7 @@ https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3
 https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-https://cdnmdc1.useetv.com/joss/194/cartoonnetwork/chunklist_w1874260401_b684100_sleng.m3u8
+https://cdnbpp1.useetv.com/joss/194/cartoonnetwork/chunklist_w1362718642_b684100_sleng.m3u8?enc=Dmd3vrFtFXzEthSNUWKntA&exp=1568113263
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
@@ -216,7 +216,7 @@ https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_s
 ##### Knowledge #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge",CGTN
-https://cdnbal1.useetv.com/joss/14/cgtndocumentary/chunklist_w1148988809_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
 https://cdnmdc1.useetv.com/joss/17/disco/chunklist_w1525615175_b1344100_sleng.m3u8
@@ -236,7 +236,7 @@ https://cdnmdc2.useetv.com/joss/17/natgeowild/chunklist_w1812415681_b894100_slen
 https://cdnjt21.useetv.com/joss/17/afc/chunklist_w869016030_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eentertainment_small.png?v=2.0.0.13" group-title="Lifestyle",E! Entertainment
-https://cdnmdc1.useetv.com/joss/194/eentertainment/chunklist_w2143572012_b1344100_sleng.m3u8
+http://210.210.155.35/uq2663/h/h10/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", Eat & Go
 https://cdnjt21.useetv.com/joss/14/eatgo/chunklist_w132877268_b684100_sleng.m3u8
@@ -249,8 +249,11 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b14000
 
 ##### Entertainment #####
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Entertainment",Animax
-https://cdnmdc2.useetv.com/joss/194/animax/chunklist_w1261412913_b684100_sleng.m3u8
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
 #EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Entertainment",ANIPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
@@ -259,7 +262,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://210.210.155.35:80/uq2663/h/h141/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png?v=2.0.0.13" group-title="Entertainment",CCTV 4
-https://cdnkbl1.useetv.com/joss/14/cctv4/chunklist_w903648719_b684100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png?v=2.0.0.13" group-title="Entertainment",Citra Drama
 https://cdnjt21.useetv.com/joss/14/cdrama/chunklist_w793121764_b684100_sleng.m3u8
@@ -271,7 +274,7 @@ https://cdnjt25.useetv.com/joss/14/centertainment/chunklist_w719511899_b684100_s
 https://cdnbal1.useetv.com/joss/14/chinesedrama/chunklist_w879362197_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DIVA" tvg-name="DIVA" tvg-logo="https://www.useetv.com/assets/images/channel/logo_diva_small.png?v=2.0.0.13" group-title="Entertainment",DIVA
-https://cdnmdc2.useetv.com/joss/194/diva/chunklist_w1358701468_b1344100_sleng.m3u8
+http://210.210.155.35/uq2663/h/h11/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment",Dunia Lain
 https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
