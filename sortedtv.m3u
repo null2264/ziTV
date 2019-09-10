@@ -130,6 +130,9 @@ http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 https://cdnjt21.useetv.com/joss/15/nba/chunklist_w1855975795_b1344100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports",RTM Sports HD
+http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+
 #EXTINF:-1 group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
 
@@ -150,8 +153,11 @@ http://210.210.155.35/uq2663/h/h03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News",CNA
 http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w416082130_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672932981_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News",DW (English)
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
@@ -367,3 +373,22 @@ https://cdnbal1.useetv.com/joss/14/tv9/chunklist_w870359622_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png?v=2.0.0.13" group-title="Religi",U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
+
+##### COUNTRY: Malaysia #####
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Malaysia",RTM 1
+http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
+
+#EXTINF:0 tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg" group-title="Malaysia",RTM 2
+http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="Malaysia", RTM Okey
+http://rtm1mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Radio_Televisyen_Malaysia.svg/1200px-Radio_Televisyen_Malaysia.svg.png" group-title="Malaysia",RTM Stasiun Berita
+http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m3u8
+
+##### COUNTRY: Thailand #####
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" group-title="THAILAND", Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
