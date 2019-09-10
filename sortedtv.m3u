@@ -72,10 +72,10 @@ https://cdnmdc2.useetv.com/joss/15/useeinfo/chunklist_w1694646252_b1344100_sleng
 https://cdnbdsa1.useetv.com/joss/15/sctv/chunklist_w279549303_b894100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal",Trans7
-https://cdnmdc1.useetv.com/joss/15/trans7/chunklist_w245092932_b1344100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
 #EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="Lokal",TransTV
-https://edgejt7.useetv.com/joss/15/transtv/chunklist_w1266247219_b1344100_sleng.m3u8
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="Lokal",TV Edukasi
 https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
@@ -85,6 +85,9 @@ https://cdnbdsa1.useetv.com/joss/15/tvone/chunklist_w1762545436_b894100_sleng.m3
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI Sumsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="Lokal",UseePhoto
 https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1857108279_b1344100_sleng.m3u8
@@ -100,6 +103,12 @@ https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u
 #EXTINF:-1 tvg-id="bein2" tvg-name="bein2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 2
 https://cdnjt21.useetv.com/joss/17/bein2/chunklist_w599886783_b1344100_sleng.m3u8
 
+#EXTINF:-1 group-title="Sports",DensPlay
+http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
+http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
+
 #EXTINF:-1 tvg-id="foxsp1ID" tvg-name="foxsp1ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 1
 https://cdnjt21.useetv.com/joss/17/foxsport1/chunklist_w1725905312_b1344100_sleng.m3u8
 
@@ -112,11 +121,17 @@ https://cdnjt25.useetv.com/joss/17/foxsport3/chunklist_w1808412026_b1344100_slen
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
 https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",MNC Sports
+http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 https://cdnjt21.useetv.com/joss/15/nba/chunklist_w1855975795_b1344100_sleng.m3u8
 
+#EXTINF:-1 group-title="Sports",TVRI Sport HD
+http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports",UseeSports
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w1112135570_b1344100_sleng.m3u8
+https://cdnbpp1.useetv.com/joss/15/useesport/chunklist_w1472169235_b1344100_sleng.m3u8?enc=_qmHlncfhLEsxamuIiwF5Q&exp=1568113080
 
 ##### News #####
 
