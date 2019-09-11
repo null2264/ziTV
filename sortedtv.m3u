@@ -20,6 +20,9 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Lokal",Daai TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",Digdaya TV
+http://103.15.37.3:1935/live/digdayatv/chunklist_w479408469.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="Lokal",idku
 https://cdnmdc1.useetv.com/joss/15/idku/chunklist_w351842206_b1344100_sleng.m3u8
 
@@ -56,6 +59,9 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",PalTV
+http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pelangi_small1.png?v=2.0.0.13" group-title="Lokal",Pelangi
 http://cdnjt25.useetv.com/joss/14/pelangi/chunklist_w1191901990_b684100_sleng.m3u8
 
@@ -63,7 +69,7 @@ http://cdnjt25.useetv.com/joss/14/pelangi/chunklist_w1191901990_b684100_sleng.m3
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Lokal",RCTI
-https://edge.okezone.com/live/rctioke.m3u8
+http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="Lokal",RRI NET
 https://cdnmdc2.useetv.com/joss/14/rrinet/chunklist_w1092866540_b684100_sleng.m3u8
@@ -136,6 +142,9 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m
 #EXTINF:-1 group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
 
+#EXTINF:-1 group-title="Sports",TVRI Sport SD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 #EXTINF:-1 group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
@@ -193,6 +202,12 @@ http://rr2.dens.tv/s/s32/01.m3u8
 
 ##### Music #####
 
+#EXTINF:-1 tvg-logo="" group-title="Music",Dangdutz
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
 https://cdnmdc1.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
 
@@ -204,11 +219,17 @@ https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small1.png?v=2.0.0.13" group-title="Kids",Baby First
 https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
+http://xyz:999@221.127.10.70:9981/stream/channelid/1258888129?ticket=4FFDD641D965FB9183EBAD48B3413BF1C04186E9&profile=pass
+
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-https://cdnbpp1.useetv.com/joss/194/cartoonnetwork/chunklist_w1362718642_b684100_sleng.m3u8?enc=Dmd3vrFtFXzEthSNUWKntA&exp=1568113263
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -229,7 +250,7 @@ https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u
 https://cdnjt25.useetv.com/joss/194/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids",Nickelodeon
-https://cdnbdsa1.useetv.com/joss/194/nickelodeon/chunklist_w2138361028_b684100_sleng.m3u8
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids",Spacetoons Plus
 https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
@@ -270,6 +291,9 @@ https://cdnmdc2.useetv.com/joss/15/fashionone/chunklist_w1960066518_b1344100_sle
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png?v=2.0.0.13" group-title="Lifestyle", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", Foodie Channel
+http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 
 ##### Entertainment #####
 
@@ -336,7 +360,7 @@ http://210.210.155.35/uq2663/h/h19/index2.m3u8
 #EXTINF:-1 tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png?v=2.0.0.13" group-title="Entertainment", S-ONE
 http://210.210.155.35:80/uq2663/h/h143/index2.m3u8
 
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://i.imgur.com/2oJDzRN.png" group-title="Indonesia",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://i.imgur.com/2oJDzRN.png" group-title="Entertainment",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png?v=2.0.0.13" group-title="Entertainment", TV5Monde
@@ -382,6 +406,12 @@ http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
 ##### COUNTRY: Malaysia #####
 
+#EXTINF:0 tvg-logo="" group-title="Malaysia",Astro Arena
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia",Astro Awani
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="Malaysia",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 
@@ -396,5 +426,5 @@ http://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2096000.m
 
 ##### COUNTRY: Thailand #####
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" group-title="THAILAND", Thairath TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" group-title="Thailand", Thairath TV
 http://live.thairath.co.th/trtv2/playlist.m3u8
