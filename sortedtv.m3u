@@ -235,7 +235,7 @@ https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng
 http://xyz:999@221.127.10.70:9981/stream/channelid/1258888129?ticket=4FFDD641D965FB9183EBAD48B3413BF1C04186E9&profile=pass
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/cartoonnetwork.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
@@ -287,7 +287,7 @@ https://cdnmdc2.useetv.com/joss/17/natgeowild/chunklist_w1812415681_b894100_slen
 ##### Lifestyle #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.13" group-title="Lifestyle", Asian Food Channel
-http://203.153.218.26:9981/stream/channelid/723941166?ticket=3E5377609F0E22E4CB87FAE6078DC83413552812&profile=pass
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/afc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", DENS Live&Style
 http://210.210.155.35/session/77dff652-d3b9-11e9-86e6-b82a72d63267/x6bnqe/s/s999/live.m3u8
