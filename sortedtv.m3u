@@ -203,6 +203,15 @@ https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u
 #EXTINF:-1 tvg-logo="" group-title="Movies",First Movies
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1362
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18592
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1361
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies",Galaxy
 https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w1678089549_b894100_sleng.m3u8
 
@@ -232,22 +241,22 @@ https://edgejt7.useetv.com/joss/14/tmusic/chunklist_w1708148941_b684100_sleng.m3
 https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
-http://xyz:999@221.127.10.70:9981/stream/channelid/1258888129?ticket=4FFDD641D965FB9183EBAD48B3413BF1C04186E9&profile=pass
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18605
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/cartoonnetwork.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18604
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18599
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
-https://cdnjt21.useetv.com/joss/15/dreamworks/chunklist_w1551611297_b1344100_sleng.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18638
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids",Dunia Anak
 https://cdnmdc2.useetv.com/joss/14/duniaanak/chunklist_w2089057539_b684100_sleng.m3u8
@@ -273,21 +282,21 @@ https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_s
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
-https://cdnmdc1.useetv.com/joss/17/disco/chunklist_w1525615175_b1344100_sleng.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18600
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge",National Geographic
-https://cdnjt21.useetv.com/joss/17/natgeo/chunklist_w1968134198_b894100_sleng.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18571
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge",Nat Geo People
-https://cdnbal1.useetv.com/joss/17/natgeopeople/chunklist_w39890494_b894100_sleng.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18570
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge",Nat Geo Wild
-https://cdnmdc2.useetv.com/joss/17/natgeowild/chunklist_w1812415681_b894100_sleng.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18569
 
 ##### Lifestyle #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png?v=2.0.0.13" group-title="Lifestyle", Asian Food Channel
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/afc.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18634
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png?v=2.0.0.13" group-title="Lifestyle", DENS Live&Style
 http://210.210.155.35/session/77dff652-d3b9-11e9-86e6-b82a72d63267/x6bnqe/s/s999/live.m3u8
@@ -348,6 +357,15 @@ http://210.210.155.35/uq2663/h/h11/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment",Dunia Lain
 https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18586
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18591
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18585
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png?v=2.0.0.13" group-title="Entertainment",Hi Indo!
 http://cdnmdc1.useetv.com/joss/14/hiindo/chunklist_w1651024028_b684100_sleng.m3u8
 
@@ -385,7 +403,7 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Entertainment",Warner TV
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/warner.m3u8
+http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18550
 
 ##### Religi #####
 
