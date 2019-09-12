@@ -385,7 +385,7 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Entertainment",Warner TV
-https://cdnjt25.useetv.com/joss/194/warner/chunklist_w1281670795_b1344100_sleng.m3u8
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/warner.m3u8
 
 ##### Religi #####
 
