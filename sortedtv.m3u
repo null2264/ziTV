@@ -158,7 +158,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports",UseeSports
-http://id2.indostreamingtv.com/live/indosiar/index.m3u8
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
 
 ##### News #####
 
