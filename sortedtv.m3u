@@ -53,11 +53,14 @@ https://cdnbdsa1.useetv.com/joss/14/mugos/chunklist_w1799565356_b684100_sleng.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="Lokal",MyTV
 https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV FHD
+http://iptvhit.live/ziptv/test/test/97
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",PalTV
 http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
@@ -207,14 +210,14 @@ https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://203.153.218.26:9981/stream/channelid/1764566305?ticket=C419C1869A585C39D7189780FD508ABE45B4F61E&profile=pass
+http://iptv-line.com:6969/master.280/change3kslpaks/46446
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
 http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18592
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://iptvhit.live/jalurlaut/12345/12345/900
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1361
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies",Galaxy
@@ -369,7 +372,7 @@ http://210.210.155.35/uq2663/h/h11/index2.m3u8
 https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18586
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18591
