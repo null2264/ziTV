@@ -204,16 +204,21 @@ https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1362
+http://203.153.218.26:9981/stream/channelid/1764566305?ticket=C419C1869A585C39D7189780FD508ABE45B4F61E&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18592
+http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
+#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18592
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1361
+http://iptvhit.live/jalurlaut/12345/12345/900
+#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/1361
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?v=2.0.0.13" group-title="Movies",Galaxy
 https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w1678089549_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO SD
+http://218.202.220.2:5000/nn_live.ts?id=HBO
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
