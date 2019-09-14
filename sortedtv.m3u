@@ -209,6 +209,9 @@ https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b68410
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Movies",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies",FliK
 https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u8
 
@@ -219,7 +222,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://iptv-line.com:6969/master.280/change3kslpaks/46446
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://27.254.149.109:8081/bypass/Foxfamily/playlist.m3u8
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18592
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
@@ -231,6 +234,15 @@ https://cdnjt25.useetv.com/joss/15/galaxy/chunklist_w1678089549_b894100_sleng.m3
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",HBO SD
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
@@ -297,6 +309,9 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3
 https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
 
 ##### Knowledge #####
+
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?v=2.0.0.13" group-title="Knowledge",CGTN
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -378,7 +393,7 @@ http://210.210.155.35/uq2663/h/h11/index2.m3u8
 https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18591
