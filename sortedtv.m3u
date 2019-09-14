@@ -238,7 +238,7 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Asia
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
 https://cdnmdc1.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
