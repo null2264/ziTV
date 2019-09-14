@@ -168,6 +168,9 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News",BBC World News
+http://ott-cdn.ucom.am/s24/04.m3u8
+
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="News",Bloomberg TV
 http://210.210.155.35/uq2663/h/h03/index2.m3u8
 
@@ -176,6 +179,9 @@ http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w416082130_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",CNBC International
+http://ott-cdn.ucom.am/s65/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672932981_b384000_sleng.m3u8
@@ -191,6 +197,9 @@ http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",VOA
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/voa.m3u8
 
 ##### Movies #####
 
