@@ -59,9 +59,6 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV FHD
-http://iptvhit.live/ziptv/test/test/97
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",PalTV
 http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
 
@@ -146,7 +143,7 @@ https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20190910_1568096951769/3000K/3000_slide.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",MNC Sports
-http://202.80.222.182/000001/2/ch00000090990000001753/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+http://202.80.222.182/000001/2/ch00000090990000001753/1024.m3u8?m3u8_level=2&zte_bandwidth=1003&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
 http://185.246.209.109:8080/NBA9/index.m3u8
@@ -241,7 +238,7 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Asia
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18573
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
 https://cdnmdc1.useetv.com/joss/14/pramborstv/chunklist_w76839492_b684100_sleng.m3u8
@@ -258,13 +255,13 @@ https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18605
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-http://210.186.80.171:9000/6.ts
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
-http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18599
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=B15859441EB3E7895A9B03F0B97507D8149507A0&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -285,7 +282,7 @@ https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u
 https://cdnjt25.useetv.com/joss/194/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids",Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3DE847863636D558FBE78F&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids",Spacetoons Plus
 https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
