@@ -340,14 +340,14 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18600
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13" group-title="Knowledge",National Geographic
-#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18571
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgNFbzX.png" group-title="Knowledge",National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?v=2.0.0.13" group-title="Knowledge",Nat Geo People
-#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18570
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpZU5oy.png" group-title="Knowledge",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13" group-title="Knowledge",Nat Geo Wild
-#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18569
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ppiCK8.png" group-title="Knowledge",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/04.m3u8
 
 ##### Lifestyle #####
 
