@@ -48,72 +48,72 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mugos_small1.png?v=2.0.0.13" group-title="Lokal",MUGOS
-https://cdnbdsa1.useetv.com/joss/14/mugos/chunklist_w1799565356_b684100_sleng.m3u8
+#https://cdnbdsa1.useetv.com/joss/14/mugos/chunklist_w1799565356_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="Lokal",MyTV
-https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
+#https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV SD
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/5DRmaCP.png" group-title="Lokal",NET. TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png?v=2.0.0.13" group-title="Lokal",NET. TV HD
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/ONeBGaK.png" group-title="Lokal",NET. TV HD
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",PalTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/H8SydXk.png" group-title="Lokal",PalTV
 http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_pelangi_small1.png?v=2.0.0.13" group-title="Lokal",Pelangi
-http://cdnjt25.useetv.com/joss/14/pelangi/chunklist_w1191901990_b684100_sleng.m3u8
+#http://cdnjt25.useetv.com/joss/14/pelangi/chunklist_w1191901990_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="Lokal",Rajawali TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/tyDtRw3.png" group-title="Lokal",Rajawali TV
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Lokal",RCTI SD
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/iSs7UfE.png" group-title="Lokal",RCTI SD
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/200px-RCTI_2015.svg.png" group-title="Lokal",RCTI HD
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/i2wf5j6.png" group-title="Lokal",RCTI HD
 http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13" group-title="Lokal",RRI NET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/UheVOjO.png" group-title="Lokal",RRI NET
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Lokal",Ruang Tampil
-https://cdnmdc2.useetv.com/joss/15/useeinfo/chunklist_w1694646252_b1344100_sleng.m3u8
+#https://cdnmdc2.useetv.com/joss/15/useeinfo/chunklist_w1694646252_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.13" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/axsvIwA.png" group-title="Lokal",SCTV
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Lokal",Trans7
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://i.imgur.com/SiJ3OlU.png" group-title="Lokal",Trans7
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="Lokal",TransTV
+#EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="Lokal",TV Edukasi
-https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
+#https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="Lokal",TV One
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://i.imgur.com/HUoPLGY.png" group-title="Lokal",TV One
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI Sumsel
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Sumsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="Lokal",UseePhoto
-https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1857108279_b1344100_sleng.m3u8
+#https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1857108279_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="Lokal",UseePrime
-https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w1732362047_b894100_sleng.m3u8
+#https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w1732362047_b894100_sleng.m3u8
 
 ##### Sports #####
 
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 1
-https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u8
+#https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="bein2" tvg-name="bein2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 2
-https://cdnjt21.useetv.com/joss/17/bein2/chunklist_w599886783_b1344100_sleng.m3u8
+#https://cdnjt21.useetv.com/joss/17/bein2/chunklist_w599886783_b1344100_sleng.m3u8
 
 #EXTINF:-1 group-title="Sports",BTSport 1
 https://sportbar.biz/lba/YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=/g2/btuk1.m3u8?token=YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=&id=ZWQ0MDFlNDg4ZGRkMTUzMWQ2YTRjZGQ4M2JkZmVmMWM=&vip=1567334490&dip=YWQzMTA3ZjIzMWIzNTljYTdiZjFhMzJmODQ0MjNlZGM=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
