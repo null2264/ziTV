@@ -2,49 +2,49 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13" group-title="Lokal",Antara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/CP8SmqR.png" group-title="Lokal",Antara
 https://cdnjt21.useetv.com/joss/14/antara/chunklist_w973456729_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="Lokal",ANTV
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.imgur.com/hRHpyXp.png" group-title="Lokal",ANTV
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal",Bali TV
-https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1616565046_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/i1s3A06.png" group-title="Lokal",Bali TV
+#https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1616565046_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bandungtv_small1.png?v=2.0.0.13" group-title="Lokal",BandungTV
-https://cdnjt21.useetv.com/joss/14/bandungtv/chunklist_w1988409932_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/WToKbo5.png" group-title="Lokal",BandungTV
+#https://cdnjt21.useetv.com/joss/14/bandungtv/chunklist_w1988409932_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="Lokal",Berita Satu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/s8RFhAC.png" group-title="Lokal",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="Lokal",Daai TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/yaBzn4c.png" group-title="Lokal",Daai TV
 http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",Digdaya TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/lZ37lDi.png" group-title="Lokal",Digdaya TV
 http://103.15.37.3:1935/live/digdayatv/chunklist_w479408469.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png?v=2.0.0.14" group-title="Lokal",idku
-https://cdnmdc1.useetv.com/joss/15/idku/chunklist_w351842206_b1344100_sleng.m3u8
+#https://cdnmdc1.useetv.com/joss/15/idku/chunklist_w351842206_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="Lokal",Indosiar
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/K3ljzIw.png" group-title="Lokal",Indosiar
 http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="Lokal",Insert
-http://cdnbdsa1.useetv.com/joss/14/insert/chunklist_w977669035_b684100_sleng.m3u8
+#http://cdnbdsa1.useetv.com/joss/14/insert/chunklist_w977669035_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="Lokal",JakTV
-https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w526389484_b684100_sleng.m3u8
+#https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w526389484_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="Lokal",JITV
-https://edgejt7.useetv.com/joss/14/jitv/chunklist_w70325897_b684100_sleng.m3u8
+#https://edgejt7.useetv.com/joss/14/jitv/chunklist_w70325897_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="Lokal",JTV
-https://cdnmdc2.useetv.com/joss/14/jtv/chunklist_w995326339_b684100_sleng.m3u8
+#https://cdnmdc2.useetv.com/joss/14/jtv/chunklist_w995326339_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png?v=2.0.0.13" group-title="Lokal",Kompas TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/DVxVfvj.png" group-title="Lokal",Kompas TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="Lokal",Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-chno="" tvg-logo="https://i.imgur.com/oaksmxV.png" group-title="Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mugos_small1.png?v=2.0.0.13" group-title="Lokal",MUGOS
@@ -294,16 +294,16 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://i.imgur.com/f9uTkT2.png" group-title="Kids",Disney Channel
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disney
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EPapBJ.png" group-title="Kids",Disney XD
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyxd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyjr
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Disney Junior ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
@@ -372,13 +372,13 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2
 
 ##### Entertainment #####
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Entertainment",Adult Swim
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5JhrU9.png" group-title="Entertainment",Adult Swim
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
 
-#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="Entertainment",Animax
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png?v=2.0.0.13" group-title="Entertainment",ANIPlus
+#EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/U8uIz0v.png" group-title="Entertainment",ANIPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Arirang
