@@ -173,52 +173,52 @@ http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
 ##### News #####
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png?v=2.0.0.13" group-title="News",Aljazeera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iOd7LdO.png" group-title="News",Aljazeera
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",BBC World News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Anhz5fT.png" group-title="News",BBC World News
 http://ott-cdn.ucom.am/s24/04.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png?v=2.0.0.13" group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV
 http://210.210.155.35/uq2663/h/h03/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png?v=2.0.0.13" group-title="News",CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqc4vga.png" group-title="News",CNA
 http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nbBgteU.png" group-title="News",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w416082130_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",CNBC International
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdUzo07.png" group-title="News",CNBC International
 http://ott-cdn.ucom.am/s65/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="News",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s0HQuJl.png" group-title="News",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672932981_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",CNN International
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dUPfBkN.png" group-title="News",CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png?v=2.0.0.13" group-title="News",DW (English)
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW (English)
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png?v=2.0.0.13" group-title="News",Euronews
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/J5vLeEP.png" group-title="News",Euronews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png?v=2.0.0.13" group-title="News",France 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1650Czz.png" group-title="News",France 24
 http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",Jakarta Globe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYRRcMY.png" group-title="News",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",Sky News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R6Dwue.png" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="News",VOA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XC50yHz.png" group-title="News",VOA
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/voa.m3u8
 
 ##### Movies #####
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
-https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b684100_sleng.m3u8
+#https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B8HkEql.png" group-title="Movies",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
@@ -227,7 +227,7 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?v=2.0.0.13" group-title="Movies",FliK
-https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u8
+#https://cdnjt25.useetv.com/joss/15/flik/chunklist_w1058998300_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",First Movies
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
@@ -259,7 +259,7 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
-https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
+#https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png?v=2.0.0.13" group-title="Movies",Zee Bioskop
 http://rr2.dens.tv/s/s32/01.m3u8
