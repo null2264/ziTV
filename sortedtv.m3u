@@ -266,13 +266,13 @@ http://rr2.dens.tv/s/s32/01.m3u8
 
 ##### Music #####
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Dangdutz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1xVwIh.png" group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",MTV Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrKlbAW.png" group-title="Music",MTV Asia
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png?v=2.0.0.13" group-title="Music",Prambors
@@ -286,7 +286,7 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small1.png?v=2.0.0.13" group-title="Kids",Baby First
 #https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N5l7LRB.png" group-title="Kids",Boomerang
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18605
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://i.imgur.com/cTitjKv.png" group-title="Kids",Cartoon Network
@@ -299,16 +299,16 @@ http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
 #EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://i.imgur.com/f9uTkT2.png" group-title="Kids",Disney Channel
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disney
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EPapBJ.png" group-title="Kids",Disney XD
-http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyxd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyjr
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids",DreamWorks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EPapBJ.png" group-title="Kids",Disney XD
+http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyxd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X3bJ5SB.png" group-title="Kids",DreamWorks
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18638
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids",Dunia Anak
@@ -323,7 +323,7 @@ http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18638
 #EXTINF:-1 tvg-id="NICKJRID" tvg-name="NICKJRID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr.
 #https://cdnjt25.useetv.com/joss/194/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://i.imgur.com/KHOXbpX.png" group-title="Kids",Nickelodeon
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3DE847863636D558FBE78F&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids",Spacetoons Plus
