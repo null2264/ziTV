@@ -127,6 +127,9 @@ http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",ESL
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
 #EXTINF:-1 tvg-id="foxsp1ID" tvg-name="foxsp1ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 1
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
 
@@ -282,7 +285,8 @@ https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18605
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids",Cartoon Network
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
+http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
+#http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
