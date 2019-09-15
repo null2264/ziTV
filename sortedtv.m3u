@@ -115,59 +115,61 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="bein2" tvg-name="bein2" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 2
 #https://cdnjt21.useetv.com/joss/17/bein2/chunklist_w599886783_b1344100_sleng.m3u8
 
-#EXTINF:-1 group-title="Sports",BTSport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qHv2CEF.png" group-title="Sports",BTSport 1
 https://sportbar.biz/lba/YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=/g2/btuk1.m3u8?token=YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=&id=ZWQ0MDFlNDg4ZGRkMTUzMWQ2YTRjZGQ4M2JkZmVmMWM=&vip=1567334490&dip=YWQzMTA3ZjIzMWIzNTljYTdiZjFhMzJmODQ0MjNlZGM=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
 
-#EXTINF:-1 group-title="Sports",BTSport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCmKdxa.png" group-title="Sports",BTSport 2
 https://sportbar.biz/lba/Zjk1MDcxMDFhMTA5OTE2ZjA2ZjA3MTY4MzhiNjlkNGI=/g3/ukbt2sport.m3u8?token=Zjk1MDcxMDFhMTA5OTE2ZjA2ZjA3MTY4MzhiNjlkNGI=&id=ZWE2MTM4ZTc3ZmFkMzUxMTY2MzU2ZGVmMGE3OTA3ZWU=&vip=1566626679&dip=ZGExMDQzMTY3Y2VhZWFkMWM4ODY3NjIxZDNkZjFhN2M=&pip=36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
 
-#EXTINF:-1 group-title="Sports",DensPlay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vIIn2AQ.png" group-title="Sports",BTSport 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SXozxfe.png" group-title="Sports",DensPlay
 http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/EGG_Network_Logo_used_since_2016.png/230px-EGG_Network_Logo_used_since_2016.png" group-title="Sports",eGG Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZgFYoO.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",ESL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bd7PtTE.png" group-title="Sports",ESL
 http://210.210.155.35/x6bnqe/s/s101/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JalvDIL.png" group-title="Sports",ESPN
 http://sports24.club:80/live/m3u8/espn3.m3u8?ch=espn
 
 #EXTINF:-1 tvg-id="foxsp1ID" tvg-name="foxsp1ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 1
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
+#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
 
 #EXTINF:-1 tvg-id="foxsp2ID" tvg-name="foxsp2ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 2
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport2.m3u8
+#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport2.m3u8
 
 #EXTINF:-1 tvg-id="foxsp3ID" tvg-name="foxsp3ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 3
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport3.m3u8
+#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
-https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
+#https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",MLB Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MP5vqJm.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Tuesday_20190910_1568096951769/3000K/3000_slide.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",MNC Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7x47VZb.png" group-title="Sports",MNC Sports
 http://202.80.222.182/000001/2/ch00000090990000001753/1024.m3u8?m3u8_level=2&zte_bandwidth=1003&virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="Sports",NBA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tpHLX6S.png" group-title="Sports",NBA
 http://185.246.209.109:8080/NBA9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Sports",RTM Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I15QVjP.png" group-title="Sports",RTM HD Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 
-#EXTINF:-1 group-title="Sports",SuperSoccer TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
 
-#EXTINF:-1 group-title="Sports",TVRI Sport SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7nBuq1n.png" group-title="Sports",TVRI Sport SD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 group-title="Sports",TVRI Sport HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXOpY2Y.png" group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports",UseeSports
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
+#https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
 
 ##### News #####
 
