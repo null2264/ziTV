@@ -276,6 +276,9 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xldz8Ee.png" group-title="Movies",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJAPGe7.png" group-title="Movies",Hello TV
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?v=2.0.0.13" group-title="Movies",IMC
 #https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
 
