@@ -9,7 +9,7 @@ https://cdnjt21.useetv.com/joss/14/antara/chunklist_w973456729_b684100_sleng.m3u
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/i1s3A06.png" group-title="Lokal",Bali TV
-#https://cdnjt25.useetv.com/joss/14/balitv/chunklist_w1616565046_b684100_sleng.m3u8
+http://202.80.222.171:80/000001/2/ch00000090990000001729/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/WToKbo5.png" group-title="Lokal",BandungTV
 #https://cdnjt21.useetv.com/joss/14/bandungtv/chunklist_w1988409932_b684100_sleng.m3u8
@@ -32,14 +32,14 @@ http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?zte_bandwidth=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png?v=2.0.0.13" group-title="Lokal",Insert
 #http://cdnbdsa1.useetv.com/joss/14/insert/chunklist_w977669035_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="Lokal",JakTV
-#https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w526389484_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/7uliRFb.png" group-title="Lokal",JakTV
+http://202.80.222.167:80/000001/2/ch00000090990000001695/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png?v=2.0.0.13" group-title="Lokal",JITV
 #https://edgejt7.useetv.com/joss/14/jitv/chunklist_w70325897_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.13" group-title="Lokal",JTV
-#https://cdnmdc2.useetv.com/joss/14/jtv/chunklist_w995326339_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/y1zZAiM.png" group-title="Lokal",JTV
+http://202.80.222.175:80/000001/2/ch00000090990000001731/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/DVxVfvj.png" group-title="Lokal",Kompas TV
 http://210.210.155.35/qwr9ew/s/s104/01.m3u8
@@ -47,8 +47,8 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-chno="" tvg-logo="https://i.imgur.com/oaksmxV.png" group-title="Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mugos_small1.png?v=2.0.0.13" group-title="Lokal",MUGOS
-#https://cdnbdsa1.useetv.com/joss/14/mugos/chunklist_w1799565356_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/5sumnzv.png" group-title="Lokal",MUGOS
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="Lokal",MyTV
 #https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
@@ -89,6 +89,9 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Lokal",TV9 NU
+http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="Lokal",TV Edukasi
 #https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
 
@@ -98,7 +101,10 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Sumsel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Kanal 3
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Sumsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="Lokal",UseePhoto
@@ -220,6 +226,9 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/voa.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
 #https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b684100_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ib8IwQi.png" group-title="Movies",CGV
+http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O1bOhWr.png" group-title="Movies",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
@@ -248,6 +257,9 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/huZqdu3.png" group-title="Movies",HBO SD
 http://218.202.220.2:5000/nn_live.ts?id=HBO
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huZqdu3.png" group-title="Movies",HBO HD
+http://130.185.150.79:1935/trunk/HBO/chunklist_w1289108809.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uk1vfJk.png" group-title="Movies",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
@@ -454,6 +466,9 @@ http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxKutJ1.png" group-title="Entertainment", TV5Monde
 http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcZ2L0K.png" group-title="Entertainment", tvN
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="Entertainment",WakuWaku Japan
 #https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
