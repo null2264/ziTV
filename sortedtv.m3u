@@ -290,7 +290,7 @@ http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1xVwIh.png" group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Music",Karaoke Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTpTwSF.png" group-title="Music",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZrKlbAW.png" group-title="Music",MTV Asia
@@ -390,7 +390,7 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpbec3A.png" group-title="Lifestyle", Fashion TV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle", Foodie Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kYhEHZ.png" group-title="Lifestyle", Foodie Channel
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
 
 ##### Entertainment #####
