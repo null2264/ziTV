@@ -112,6 +112,24 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 ##### Sports #####
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wqd7ANa.png" group-title="Sports",Abu Dhabi Sport 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=1514826839
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVJbS0S.png" group-title="Sports",Abu Dhabi Sport 2
+https://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?v=2695994505
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WKAG10z.png" group-title="Sports",Abu Dhabi Sport 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8?v=2107796047
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Mkud8L.png" group-title="Sports",Abu Dhabi Sport 4
+https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8?v=609049606
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CPhYHSM.png" group-title="Sports",Abu Dhabi Sport 5
+https://tvae.ercdn.net/adsport5/adsport5_720p.m3u8?v=2745980533
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JEKiQQ9.png" group-title="Sports",Abu Dhabi Sport 6
+https://tvae.ercdn.net/adsport6/adsport6_720p.m3u8?v=3112480863
+
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 1
 #https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u8
 
@@ -128,6 +146,9 @@ https://sportbar.biz/lba/Zjk1MDcxMDFhMTA5OTE2ZjA2ZjA3MTY4MzhiNjlkNGI=/g3/ukbt2sp
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXozxfe.png" group-title="Sports",DensPlay
 http://210.210.155.35/session/fde3acf0-c566-11e9-a100-c81f66f89318/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RLeKqBi.png" group-title="Sports",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZgFYoO.png" group-title="Sports",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/index2.m3u8
@@ -209,8 +230,11 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672932981_b38400
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUPfBkN.png" group-title="News",CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW (English)
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW English
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/dweng.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/J5vLeEP.png" group-title="News",Euronews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
@@ -218,8 +242,14 @@ http://210.210.155.35/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1650Czz.png" group-title="News",France 24
 http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1650Czz.png" group-title="News",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dYRRcMY.png" group-title="News",Jakarta Globe
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qD8fwly.png" group-title="News",MNC News
+http://202.80.222.130/000001/2/ch14041511564438196910/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R6Dwue.png" group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
@@ -360,6 +390,12 @@ http://210.210.155.35/qwr9ew/s/s20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18600
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICNg2uI.png" group-title="Knowledge",Docubox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZfiXrN.png" group-title="Knowledge",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MgNFbzX.png" group-title="Knowledge",National Geographic
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/04.m3u8
