@@ -183,14 +183,14 @@ http://sports24.club:80/live/m3u8/espn3.m3u8?ch=espn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oav1D8O.png" group-title="Sports",Fight Sports
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 
-#EXTINF:-1 tvg-id="foxsp1ID" tvg-name="foxsp1ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 1
-#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k5FW8QH.png" group-title="Sports",Fox Sports 1
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
 
-#EXTINF:-1 tvg-id="foxsp2ID" tvg-name="foxsp2ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 2
-#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m6rHRqf.png" group-title="Sports",Fox Sports 2
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport2.m3u8
 
-#EXTINF:-1 tvg-id="foxsp3ID" tvg-name="foxsp3ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="Sports",Fox Sports 3
-#https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZPrmx.png" group-title="Sports",Fox Sports 3
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport3.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
 #https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
@@ -212,6 +212,27 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/realmadrid.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I15QVjP.png" group-title="Sports",RTM HD Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 1
+http://190.2.154.164:80/TV0660
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 2
+http://190.2.154.164:80/TV0661
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 3
+http://190.2.154.164:80/TV0662
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 4
+http://190.2.154.164:80/TV0663
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 5
+http://190.2.154.164:80/TV0664
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 6
+http://190.2.154.164:80/TV0665
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports Plus
+http://190.2.154.164:80/TV0666
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
