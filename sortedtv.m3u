@@ -627,6 +627,9 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iKG3zdF.png" group-title="Malaysia",Astro Awani
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sJGnkIz.png" group-title="Malaysia",Astro Go Shop
+http://playbackn32.aotg-video.astro.com.my/CH1/master_GOSHOP_8_05.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/maObcHq.png" group-title="Malaysia",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
 
