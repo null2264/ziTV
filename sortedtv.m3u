@@ -610,6 +610,9 @@ http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Religi",TV9 NU
 http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/ECkNrxx.png" group-title="Religi",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irzhbhX.png" group-title="Religi",U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
