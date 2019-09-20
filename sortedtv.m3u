@@ -89,9 +89,6 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Lokal",TV9 NU
-http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="Lokal",TV Edukasi
 #https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
 
@@ -610,8 +607,8 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VphP8OQ.png" group-title="Religi",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi",TV9 NU
-#https://cdnbal1.useetv.com/joss/14/tv9/chunklist_w870359622_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Religi",TV9 NU
+http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irzhbhX.png" group-title="Religi",U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
