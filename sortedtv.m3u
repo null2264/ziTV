@@ -89,9 +89,6 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF:-1 tvg-id="Trans TV" tvg_name="Trans TV" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Lokal",TV9 NU
-http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png?v=2.0.0.13" group-title="Lokal",TV Edukasi
 #https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w941185985_b684100_sleng.m3u8
 
@@ -132,6 +129,9 @@ https://tvae.ercdn.net/adsport5/adsport5_720p.m3u8?v=2745980533
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JEKiQQ9.png" group-title="Sports",Abu Dhabi Sport 6
 https://tvae.ercdn.net/adsport6/adsport6_720p.m3u8?v=3112480863
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71N94yJ.png" group-title="Sports",All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1017387753.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jUJmWz1.png" group-title="Sports",BeIN Sports 1 Arab
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
@@ -184,13 +184,13 @@ http://sports24.club:80/live/m3u8/espn3.m3u8?ch=espn
 http://210.210.155.35/uq2663/h/h05/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k5FW8QH.png" group-title="Sports",Fox Sports 1
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport1.m3u8
+http://190.2.154.164:80/TV0667
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6rHRqf.png" group-title="Sports",Fox Sports 2
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport2.m3u8
+http://190.2.154.164:80/TV0668
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZPrmx.png" group-title="Sports",Fox Sports 3
-https://raw.githubusercontent.com/null2264/myTV/dev/channels/foxsport3.m3u8
+http://190.2.154.164:80/TV0669
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
 #https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
@@ -213,6 +213,9 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/realmadrid.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I15QVjP.png" group-title="Sports",RTM HD Sports
 http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DC6bggh.png" group-title="Sports",SBS Golf
+http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w941530590.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 1
 http://190.2.154.164:80/TV0660
 
@@ -233,6 +236,9 @@ http://190.2.154.164:80/TV0665
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports Plus
 http://190.2.154.164:80/TV0666
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2JpVwJ.png" group-title="Sports",Sony Six
+http://130.185.150.79:1935/trunk/SONY-SIX/chunklist_w1719697475.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
@@ -309,6 +315,9 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/voa.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Movies",Bioskop Indonesia
 #https://cdnmdc1.useetv.com/joss/14/bioskopindonesia/chunklist_w1496272850_b684100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WOGvqeP.png" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ib8IwQi.png" group-title="Movies",CGV
 http://122.129.115.21:1935/edgedol/_definst_/tao103/playlist.m3u8
@@ -598,8 +607,11 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VphP8OQ.png" group-title="Religi",Rodja TV
 http://210.210.155.35/qwr9ew/s/s14/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png?v=2.0.0.13" group-title="Religi",TV9 NU
-#https://cdnbal1.useetv.com/joss/14/tv9/chunklist_w870359622_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/LPEqluR.png" group-title="Religi",TV9 NU
+http://119.235.249.60:1935/tv9/live/chunklist_w496822325.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/ECkNrxx.png" group-title="Religi",TVIKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/irzhbhX.png" group-title="Religi",U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
@@ -614,6 +626,9 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iKG3zdF.png" group-title="Malaysia",Astro Awani
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sJGnkIz.png" group-title="Malaysia",Astro Go Shop
+http://playbackn32.aotg-video.astro.com.my/CH1/master_GOSHOP_8_05.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/maObcHq.png" group-title="Malaysia",RTM 1
 http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2096000.m3u8
