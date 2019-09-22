@@ -234,6 +234,9 @@ http://190.2.154.164:80/TV0664
 #EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports 6
 http://190.2.154.164:80/TV0665
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports HD
+http://190.2.154.164:80/TV0673
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",SkyNet Sports Plus
 http://190.2.154.164:80/TV0666
 
