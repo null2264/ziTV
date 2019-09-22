@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=1150000,NAME="480p"
+http://http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b1150000_t64NDgwcA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="720p"
+http://http://fash1043.cloudycdn.services:80/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8

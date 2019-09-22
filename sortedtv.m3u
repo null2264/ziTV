@@ -487,7 +487,7 @@ http://210.210.155.35/uq2663/h/h10/01.m3u8
 #https://cdnmdc2.useetv.com/joss/15/fashionone/chunklist_w1960066518_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpbec3A.png" group-title="Lifestyle", Fashion TV
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/fashiontv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kYhEHZ.png" group-title="Lifestyle", Foodie Channel
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2288000.m3u8
