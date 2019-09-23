@@ -265,6 +265,8 @@ http://130.185.150.79:1935/trunk/SONY-SIX/chunklist_w1719697475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
 
+https://sportbar.biz/lba/M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc=/g5/itsupertennis.m3u8?token=M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7nBuq1n.png" group-title="Sports",TVRI Sport SD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
