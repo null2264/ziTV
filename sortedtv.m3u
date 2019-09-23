@@ -285,8 +285,23 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ytsYdZj.png" group-title="News",BeritaSatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV Asia
+https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV ID
 http://210.210.155.35/uq2663/h/h03/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV U.S.A +
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c4sWBf7.png" group-title="News",Bloomberg TV U.S.A
+https://d1g4mbj10o50ni.cloudfront.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zqc4vga.png" group-title="News",CNA
 http://210.210.155.35:80/uq2663/h/h29/index2.m3u8
