@@ -229,6 +229,9 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DC6bggh.png" group-title="Sports",SBS Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w941530590.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZwLU6q.png" group-title="Sports",Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgUiE4H.png" group-title="Sports",SkyNet Sports 1
 http://190.2.154.164:80/TV0660
 
