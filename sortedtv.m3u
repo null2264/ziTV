@@ -151,6 +151,9 @@ http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLkcaOO.png" group-title="Sports",BeIN Sports 5 Arab
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cY6sxW.png" group-title="Sports",BeIN Sports HD USA [60 FPS]
+http://185.246.209.109/BEIN1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein1" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="Sports",BeIN Sports 1
 #https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w107534727_b1344100_sleng.m3u8
 
