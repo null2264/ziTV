@@ -115,6 +115,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 ##### Sports #####
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="Sports",Liga 1 ID (Hanya saat ada pertandingan)
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wqd7ANa.png" group-title="Sports",Abu Dhabi Sport 1
 https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=1514826839
 
