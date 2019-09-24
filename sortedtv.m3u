@@ -698,4 +698,4 @@ http://live.thairath.co.th/trtv2/playlist.m3u8
 
 ##### TEST Channel #####
 #EXTINF:-1 group-title="TEST", TEST
-https://weplaylive.stream/view3l/98c32feefe57bcc9-7dc297328e3c648088f3049df305904d50cb9bb68dae74c66e37c4328e1aa3d3a56e77396c6146927f081e875cf6fbcc
+http://haixombia.com/api/vstv.php?sv=http://93.189.63.194/hls-live/xmlive/_definst_/2682118/2682118.m3u8?refId=31
