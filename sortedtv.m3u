@@ -699,3 +699,6 @@ http://live.thairath.co.th/trtv2/playlist.m3u8
 ##### TEST Channel #####
 #EXTINF:-1 group-title="TEST", TEST
 http://haixombia.com/api/vstv.php?sv=http://93.189.63.194/hls-live/xmlive/_definst_/2682118/2682118.m3u8?refId=31
+
+#EXTINF:-1 group-title="TEST", TEST 2
+http://93.189.63.194/hls-live/xmlive/_definst_/2682118/2682118.m3u8
