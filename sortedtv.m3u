@@ -139,6 +139,9 @@ https://tvae.ercdn.net/adsport5/adsport5_720p.m3u8?v=2745980533
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JEKiQQ9.png" group-title="Sports",Abu Dhabi Sport 6
 https://tvae.ercdn.net/adsport6/adsport6_720p.m3u8?v=3112480863
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzcvkQY.png" group-title="Sports",Abu Dhabi Sport Extra
+http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71N94yJ.png" group-title="Sports",All Sports
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w1017387753.m3u8
 
@@ -631,6 +634,9 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18550
 
 ##### Religi #####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IKJfA3.png" group-title="Religi",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8?wowzasessionid=235440712
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png?v=2.0.0.13" group-title="Religi",Al Quran Al Kareem
 #https://cdnbdsa1.useetv.com/joss/14/alquran/chunklist_w1533116231_b684100_sleng.m3u8
