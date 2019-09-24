@@ -197,13 +197,13 @@ http://210.210.155.35/uq2663/h/h05/02.m3u8
 http://ott-cdn.ucom.am/s86/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k5FW8QH.png" group-title="Sports",Fox Sports 1
-http://190.2.154.164:80/TV0667
+https://vip.doomovie-hd.com/02_foxsport_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6rHRqf.png" group-title="Sports",Fox Sports 2
-http://190.2.154.164:80/TV0668
+https://vip.doomovie-hd.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZPrmx.png" group-title="Sports",Fox Sports 3
-http://190.2.154.164:80/TV0669
+https://vip.doomovie-hd.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
 #https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
@@ -236,25 +236,25 @@ http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w941530590.m3u8
 http://ott-cdn.ucom.am/s81/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgUiE4H.png" group-title="Sports",SkyNet Sports 1
-http://190.2.154.164:80/TV0660
+https://vip.doomovie-hd.com/03_skynetsport1_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2omoDC5.png" group-title="Sports",SkyNet Sports 2
-http://190.2.154.164:80/TV0661
+https://vip.doomovie-hd.com/03_skynetsport2_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uS4bbwK.png" group-title="Sports",SkyNet Sports 3
-http://190.2.154.164:80/TV0662
+https://vip.doomovie-hd.com/03_skynetsport3_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEcJ1gY.png" group-title="Sports",SkyNet Sports 4
-http://190.2.154.164:80/TV0663
+https://vip.doomovie-hd.com/03_skynetsport4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BSzuvR2.png" group-title="Sports",SkyNet Sports 5
-http://190.2.154.164:80/TV0664
+https://vip.doomovie-hd.com/03_skynetsport5_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cdsWmCf.png" group-title="Sports",SkyNet Sports 6
-http://190.2.154.164:80/TV0665
+https://vip.doomovie-hd.com/03_skynetsport6_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UR3Kmxr.png" group-title="Sports",SkyNet Sports HD
-http://190.2.154.164:80/TV0673
+https://vip.doomovie-hd.com/03_skynetsporthd_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ewbiHY.png" group-title="Sports",SkyNet Sports Plus
 http://190.2.154.164:80/TV0666
@@ -265,7 +265,8 @@ http://130.185.150.79:1935/trunk/SONY-SIX/chunklist_w1719697475.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",SuperSoccer TV
 http://210.210.155.35:80/uq2663/h/h20/01.m3u8
 
-https://sportbar.biz/lba/M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc=/g5/itsupertennis.m3u8?token=M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1mQBbA.png" group-title="Sports",Super Tennis
+#https://sportbar.biz/lba/M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc=/g5/itsupertennis.m3u8?token=M2QxMDI2MjI2MjExYjNlZDY5ZmFjOTAxY2UyNGFiNzc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7nBuq1n.png" group-title="Sports",TVRI Sport SD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
