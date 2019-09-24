@@ -115,8 +115,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 ##### Sports #####
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="Sports",Liga 1 ID (Hanya saat ada pertandingan)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="Sports",Liga 1 (Hanya saat ada pertandingan)
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ZzmdG.png" group-title="Sports",Liga 1 HD (Hanya saat ada pertandingan)
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wqd7ANa.png" group-title="Sports",Abu Dhabi Sport 1
 https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?v=1514826839
@@ -274,8 +277,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXOpY2Y.png" group-title="Sports",TVRI Sport HD
 http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="Sports",UseeSports
-#https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7cdSUdz.png" group-title="Sports",UseeSports
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxP1I2o.png" group-title="Sports",UseeSports 2
+https://raw.githubusercontent.com/null2264/myTV/dev/channels/useesport2.m3u8
 
 ##### News #####
 
@@ -347,6 +353,9 @@ http://202.80.222.130/000001/2/ch14041511564438196910/1003.m3u8?zte_bandwidth=10
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R6Dwue.png" group-title="News",Sky News
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/skynews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZiRjrGC.png" group-title="News",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/chunklist_w1758933555.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XC50yHz.png" group-title="News",VOA
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/voa.m3u8
