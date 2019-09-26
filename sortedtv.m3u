@@ -23,6 +23,9 @@ http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/lZ37lDi.png" group-title="Lokal",Digdaya TV
 http://103.15.37.3:1935/live/digdayatv/chunklist_w479408469.m3u8
 
+#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-chno="" tvg-logo="" group-title="Lokal",GTV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",idku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479010~exp=9007200824220001~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=7b3163eb0ad88199e9a6738f6418046fcc1354f8f2b5ef34cf10545fdf5e86d2
 
