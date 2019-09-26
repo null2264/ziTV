@@ -53,8 +53,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/5sumnzv.png" group-title="Lokal",MUGOS
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png?v=2.0.0.13" group-title="Lokal",MyTV
-#https://cdnmdc1.useetv.com/joss/14/mytv/chunklist_w948914157_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",MyTV
+https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479330~exp=9007200824220321~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=2bc9683b61469ab3a971c3f3056ba12940835120f55d99df3059ffe137322d7f
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/5DRmaCP.png" group-title="Lokal",NET. TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
