@@ -50,7 +50,7 @@
     <channel update="i" site="mncvision.id.E" site_id="19" xmltv_id="Thrill">Thrill</channel>
     <channel update="i" site="mncvision.id.E" site_id="87" xmltv_id="Trans TV">Trans TV</channel>
     <channel update="i" site="mncvision.id.E" site_id="110" xmltv_id="Trans 7">Trans 7</channel>
-    <channel update="i" site="transvision.co.id" site_id="TV1" xmltv_id="TVONE">TVONE</channel>
+    <channel update="i" site="mncvision.id.E" site_id="97" xmltv_id="TVONE">TVONE</channel>
     <channel update="i" site="mncvision.id.E" site_id="118" xmltv_id="TVRI">TVRI</channel>
     <channel update="i" site="mncvision.id.E" site_id="83" xmltv_id="iNews">iNews</channel>
     <channel update="i" site="mncvision.id.E" site_id="80" xmltv_id="RCTI">RCTI</channel>
