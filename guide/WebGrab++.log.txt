@@ -1,0 +1,306 @@
+﻿[        ] 
+[        ]            WebGrab+Plus/w MDB & REX Postprocess -- version V2.1.11.0            
+[        ] 
+[        ]                                 Jan van Straaten                                
+[        ]                              Francis De Paemeleere                              
+[        ] 
+[        ]             thanks to Paul Weterings and all the contributing users             
+[        ] --------------------------------------------------------------------------------
+[        ] 
+[        ] Job started at 11/09/2019 13:10:51
+[  Debug ] 
+[  Debug ] Running  on: Unix 5.0.0.27
+[  Debug ] Environment: 4.0.30319.42000
+[  Debug ] Mono version: 5.18.0.240 (Debian 5.18.0.240+dfsg-2ubuntu2 Wed Apr 17 23:39:09 UTC 2019)
+[  Debug ] 
+[  Debug ] Loading timezone data
+[  Debug ] Embedded timezones source: timezone.timezonesdata.txt
+[  Debug ] Reading config file: /home/zirogame/./.wg++/WebGrab++.config.xml
+[  Debug ] Reading cookie file: /home/zirogame/./.wg++/hot_cookies.txt
+[  Debug ] 
+[  Info  ] found: /home/zirogame/./.wg++/siteini.pack/Indonesia/transvision.co.id.ini -- Revision 04
+[  Info  ] encrypted
+[  Debug ] 
+[  Info  ] found: /home/zirogame/./.wg++/siteini.pack/Indonesia/mncvision.id.E.ini -- Revision 05
+[  Info  ] encrypted
+[  Debug ] xmltv input file - /home/zirogame/.wg++/guide.xml - found
+[  Debug ] 9798 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=AFC) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANIMAX) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANIPLUS) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN) in the config file
+[  Info  ] Found existing channel (xmltv_id=BeritaSatu) in the config file
+[  Info  ] Found existing channel (xmltv_id=BioskopID) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg) in the config file
+[  Info  ] Found existing channel (xmltv_id=BlueAntE) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNetID) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTNDoc) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNA) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNNID) in the config file
+[  Info  ] Found existing channel (xmltv_id=DaVinciL) in the config file
+[  Info  ] Found existing channel (xmltv_id=DAAI) in the config file
+[  Info  ] Found existing channel (xmltv_id=DISNID) in the config file
+[  Info  ] Found existing channel (xmltv_id=DISJNRID) in the config file
+[  Info  ] Found existing channel (xmltv_id=DIVA) in the config file
+[  Info  ] Found existing channel (xmltv_id=DUCK) in the config file
+[  Info  ] Found existing channel (xmltv_id=Dunia Anak) in the config file
+[  Info  ] Found existing channel (xmltv_id=Dunia Lain) in the config file
+[  Info  ] Found existing channel (xmltv_id=DW) in the config file
+[  Info  ] Found existing channel (xmltv_id=E!) in the config file
+[  Info  ] Found existing channel (xmltv_id=EURONEWS) in the config file
+[  Info  ] Found existing channel (xmltv_id=FashOne) in the config file
+[  Info  ] Found existing channel (xmltv_id=FashTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=foxsp1ID) in the config file
+[  Info  ] Found existing channel (xmltv_id=foxsp2ID) in the config file
+[  Info  ] Found existing channel (xmltv_id=foxsp3ID) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24) in the config file
+[  Info  ] Found existing channel (xmltv_id=GEMTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Global TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=GOLF+) in the config file
+[  Info  ] Found existing channel (xmltv_id=KOMPAS) in the config file
+[  Info  ] Found existing channel (xmltv_id=Metro TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=MNC TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=National Geographic) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo People) in the config file
+[  Info  ] Found existing channel (xmltv_id=Nat Geo Wild) in the config file
+[  Info  ] Found existing channel (xmltv_id=NICKJRID) in the config file
+[  Info  ] Found existing channel (xmltv_id=NICKID) in the config file
+[  Info  ] Found existing channel (xmltv_id=ONETV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SBS) in the config file
+[  Info  ] Found existing channel (xmltv_id=SCTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Thrill) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trans TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trans 7) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVONE) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVRI) in the config file
+[  Info  ] Found existing channel (xmltv_id=iNews) in the config file
+[  Info  ] Found existing channel (xmltv_id=RCTI) in the config file
+[  Info  ] Found existing channel (xmltv_id=NET) in the config file
+[  Info  ] Found existing channel (xmltv_id=WakuWaku Japan) in the config file
+[  Info  ] Found existing channel (xmltv_id=Warner TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZEE) in the config file
+[  Info  ] 
+[  Info  ] 
+[  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
+[  Info  ] 
+[  Info  ] 
+[  Info  ] Group (0) :
+[  Info  ] update requested for - 55 - out of - 55 - channels for 8 day(s)
+[  Debug ] 
+[  Info  ] (   1/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=AFC) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ANIMAX) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   3/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ANIPLUS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   4/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ANTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   5/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   6/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=BeritaSatu) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   7/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=BioskopID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   8/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Bloomberg) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   9/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=BlueAntE) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       BlueAntE
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  10/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNetID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  11/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CGTNDoc) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNNID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  14/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DaVinciL) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  15/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DAAI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  16/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DISNID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  17/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DISJNRID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  18/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DIVA) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  19/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DUCK) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  20/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Dunia Anak) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  21/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Dunia Lain) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  22/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DW) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  23/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=E!) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  24/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=EURONEWS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  25/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=FashOne) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  26/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=FashTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  27/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=foxsp1ID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  28/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=foxsp2ID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  29/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=foxsp3ID) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       foxsp3ID
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (  30/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=France 24) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  31/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=GEMTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  32/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Global TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=GOLF+) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=KOMPAS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Metro TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=MNC TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  37/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=National Geographic) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  38/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Nat Geo People) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  39/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Nat Geo Wild) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  40/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=NICKJRID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  41/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=NICKID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  42/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ONETV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  43/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=SBS) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  44/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=SCTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  45/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Thrill) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  46/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Trans TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  47/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Trans 7) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  48/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=TVONE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  49/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=TVRI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  50/55  ) MNCVISION.ID.E -- chan. (xmltv_id=iNews) -- mode Force
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  51/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=RCTI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  52/55  ) MNCVISION.ID.E -- chan. (xmltv_id=NET) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  53/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=WakuWaku Japan) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  54/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=Warner TV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  55/55  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ZEE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 16214 shows in 55 channels
+[  Debug ] 0 updated shows
+[  Debug ] 16214 new shows added
+[  Info  ] 
+[  Info  ] 
+[        ] Job finished at 11/09/2019 13:24:59 done in 14m 7s
+[  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.

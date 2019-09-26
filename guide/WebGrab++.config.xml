@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">5</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+    <channel update="i" site="transvision.co.id" site_id="AFCK" xmltv_id="AFC">AFC</channel>
+    <channel update="i" site="transvision.co.id" site_id="ANI" xmltv_id="ANIMAX">ANIMAX</channel>
+    <channel update="i" site="transvision.co.id" site_id="ANIP" xmltv_id="ANIPLUS">ANIPLUS</channel>
+    <channel update="i" site="transvision.co.id" site_id="ANTV" xmltv_id="ANTV">ANTV</channel>
+    <channel update="i" site="transvision.co.id" site_id="AXN" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="transvision.co.id" site_id="BST" xmltv_id="BeritaSatu">BeritaSatu</channel>
+    <channel update="i" site="transvision.co.id" site_id="TRBI" xmltv_id="BioskopID">BioskopID</channel>
+    <channel update="i" site="transvision.co.id" site_id="BLO" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="transvision.co.id" site_id="RTLK" xmltv_id="BlueAntE">BlueAntE</channel>
+    <channel update="i" site="transvision.co.id" site_id="CAR" xmltv_id="CNetID">CNetID</channel>
+    <channel update="i" site="transvision.co.id" site_id="CC9" xmltv_id="CGTNDoc">CGTNDoc</channel>
+    <channel update="i" site="transvision.co.id" site_id="NAC" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="transvision.co.id" site_id="CNI" xmltv_id="CNNID">CNNID</channel>
+    <channel update="i" site="transvision.co.id" site_id="DVL" xmltv_id="DaVinciL">DaVinciL</channel>
+    <channel update="i" site="transvision.co.id" site_id="DAAI" xmltv_id="DAAI">DAAI</channel>
+    <channel update="i" site="transvision.co.id" site_id="DI" xmltv_id="DISNID">DISNID</channel>
+    <channel update="i" site="transvision.co.id" site_id="DIJU" xmltv_id="DISJNRID">DISJNRID</channel>
+    <channel update="i" site="transvision.co.id" site_id="DIVA" xmltv_id="DIVA">DIVA</channel>
+    <channel update="i" site="transvision.co.id" site_id="DUCK" xmltv_id="DUCK">DUCK</channel>
+    <channel update="i" site="transvision.co.id" site_id="AND" xmltv_id="Dunia Anak">Dunia Anak</channel>
+    <channel update="i" site="transvision.co.id" site_id="TRDU" xmltv_id="Dunia Lain">Dunia Lain</channel>
+    <channel update="i" site="transvision.co.id" site_id="DWT" xmltv_id="DW">DW</channel>
+    <channel update="i" site="transvision.co.id" site_id="E!" xmltv_id="E!">E!</channel>
+    <channel update="i" site="transvision.co.id" site_id="EURO" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="transvision.co.id" site_id="F1KU" xmltv_id="FashOne">FashOne</channel>
+    <channel update="i" site="transvision.co.id" site_id="FTV" xmltv_id="FashTV">FashTV</channel>
+    <channel update="i" site="transvision.co.id" site_id="FXSP" xmltv_id="foxsp1ID">foxsp1ID</channel>
+    <channel update="i" site="transvision.co.id" site_id="FSP2" xmltv_id="foxsp2ID">foxsp2ID</channel>
+    <channel update="i" site="transvision.co.id" site_id="FSPL" xmltv_id="foxsp3ID">foxsp3ID</channel>
+    <channel update="i" site="transvision.co.id" site_id="FRC" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="transvision.co.id" site_id="GEM" xmltv_id="GEMTV">GEMTV</channel>
+    <channel update="i" site="transvision.co.id" site_id="GLO" xmltv_id="Global TV">Global TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="GPLU" xmltv_id="GOLF+">GOLF+</channel>
+    <channel update="i" site="transvision.co.id" site_id="KOM" xmltv_id="KOMPAS">KOMPAS</channel>
+    <channel update="i" site="transvision.co.id" site_id="MET" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="MNC" xmltv_id="MNC TV">MNC TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="NGC" xmltv_id="National Geographic">National Geographic</channel>
+    <channel update="i" site="transvision.co.id" site_id="NGP" xmltv_id="Nat Geo People">Nat Geo People</channel>
+    <channel update="i" site="transvision.co.id" site_id="NGW" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="transvision.co.id" site_id="NCJ" xmltv_id="NICKJRID">NICKJRID</channel>
+    <channel update="i" site="transvision.co.id" site_id="NCK" xmltv_id="NICKID">NICKID</channel>
+    <channel update="i" site="transvision.co.id" site_id="ONE" xmltv_id="ONETV">ONETV</channel>
+    <channel update="i" site="transvision.co.id" site_id="SBSK" xmltv_id="SBS">SBS</channel>
+    <channel update="i" site="transvision.co.id" site_id="SCTV" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="transvision.co.id" site_id="THR" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="transvision.co.id" site_id="TRTV" xmltv_id="Trans TV">Trans TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="TR7" xmltv_id="Trans 7">Trans 7</channel>
+    <channel update="i" site="transvision.co.id" site_id="TV1" xmltv_id="TVONE">TVONE</channel>
+    <channel update="i" site="transvision.co.id" site_id="TVRI" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="mncvision.id.E" site_id="83" xmltv_id="iNews">iNews</channel>
+    <channel update="i" site="transvision.co.id" site_id="RCTI" xmltv_id="RCTI">RCTI</channel>
+    <channel update="i" site="mncvision.id.E" site_id="116" xmltv_id="NET">NET. TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="WAKU" xmltv_id="WakuWaku Japan">WakuWaku Japan</channel>
+    <channel update="i" site="transvision.co.id" site_id="WAR" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="transvision.co.id" site_id="ZBIO" xmltv_id="ZEE">ZEE</channel>
+	
+</settings>
