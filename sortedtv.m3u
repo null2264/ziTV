@@ -23,10 +23,10 @@ http://210.210.155.35/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/lZ37lDi.png" group-title="Lokal",Digdaya TV
 http://103.15.37.3:1935/live/digdayatv/chunklist_w479408469.m3u8
 
-#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-chno="" tvg-logo="" group-title="Lokal",GTV
+#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-chno="" tvg-logo="https://i.imgur.com/MQiOEbD.png" group-title="Lokal",GTV
 http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",idku
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/O9AQfKG.png" group-title="Lokal",idku
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479010~exp=9007200824220001~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=7b3163eb0ad88199e9a6738f6418046fcc1354f8f2b5ef34cf10545fdf5e86d2
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/K3ljzIw.png" group-title="Lokal",Indosiar
@@ -53,13 +53,13 @@ http://210.210.155.35/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-chno="" tvg-logo="https://i.imgur.com/oaksmxV.png" group-title="Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="" tvg-logo="" group-title="Lokal",MNC TV
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-chno="" tvg-logo="https://i.imgur.com/unZLRaS.png" group-title="Lokal",MNC TV
 http://202.80.222.182/000001/2/ch14041511111714365733/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/5sumnzv.png" group-title="Lokal",MUGOS
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="" group-title="Lokal",MyTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/Cn3KndO.png" group-title="Lokal",MyTV
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479330~exp=9007200824220321~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=2bc9683b61469ab3a971c3f3056ba12940835120f55d99df3059ffe137322d7f
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/5DRmaCP.png" group-title="Lokal",NET. TV SD
@@ -86,8 +86,8 @@ http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?zte_bandwidth=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/UheVOjO.png" group-title="Lokal",RRI NET
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png?v=2.0.1.16" group-title="Lokal",Ruang Tampil
-#https://cdnmdc2.useetv.com/joss/15/useeinfo/chunklist_w1694646252_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/pIiXnpY.png" group-title="Lokal",Ruang Tampil
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566805~exp=9007200824307796~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=5f8d7450569ad9000d00b8db64aebce94cf8c2278ae534a3332bed7ecf7c826a
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/axsvIwA.png" group-title="Lokal",SCTV
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
@@ -113,11 +113,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Sumsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="Lokal",UseePhoto
-#https://cdnbdsa1.useetv.com/joss/15/useephoto/chunklist_w1857108279_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/ZRbSg3Z.png" group-title="Lokal",UseePhoto
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png?v=2.0.0.13" group-title="Lokal",UseePrime
-#https://cdnjt25.useetv.com/joss/15/useeprime/chunklist_w1732362047_b894100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/blCQSD2.png" group-title="Lokal",UseePrime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 
 ##### Sports #####
 
@@ -342,7 +342,10 @@ http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
 
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW English
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW English SD
+https://livetvhooq.akamaized.net/e97d916eaf2a4c888a0a43cb633c54e3/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1569566855~exp=9007200824307846~acl=/e97d916eaf2a4c888a0a43cb633c54e3/*/profile_0/chunklist.m3u8*~hmac=4be9d4dc38de10990f8530a93ef4880b7980832aaa5174a43806b09b2fefbf54
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW English HD
 https://raw.githubusercontent.com/null2264/myTV/dev/channels/dweng.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/J5vLeEP.png" group-title="News",Euronews
@@ -434,6 +437,9 @@ http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
 http://rr2.dens.tv/s/s32/01.m3u8
 
 ##### Music #####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/roGgHOC.png" group-title="Music",Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566984~exp=9007200824307975~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=2572e5c41c0f1a60b1023922742e5afba48fa34ba1edf2363b3a23a72c07ba66
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1xVwIh.png" group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
