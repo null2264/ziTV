@@ -217,6 +217,9 @@ https://vip.doomovie-hd.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZPrmx.png" group-title="Sports",Fox Sports 3
 https://vip.doomovie-hd.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZLKZxzg.png" group-title="Sports",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golfplus_small1.png?v=2.0.0.13" group-title="Sports",Golf+
 #https://cdnmdc2.useetv.com/joss/15/golfplus/chunklist_w2049375849_b1344100_sleng.m3u8
 
