@@ -562,7 +562,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_
 ##### Entertainment #####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5JhrU9.png" group-title="Entertainment",Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer6.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
