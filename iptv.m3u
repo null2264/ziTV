@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/null2264/myTV/master/guide.xml"
+#EXTM3U
 
 
 
@@ -72,13 +72,13 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-chno="19" tvg-logo="https://i.imgur.com/2oJDzRN.png" group-title="Indonesia",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 group-title="Indonesia",Beritasatu English	
+#EXTINF:-1 group-title="Indonesia",Beritasatu English
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/BeritaSatu.png/220px-BeritaSatu.png" group-title="Indonesia",Beritasatu News	
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/BeritaSatu.png/220px-BeritaSatu.png" group-title="Indonesia",Beritasatu News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="304" group-title="Indonesia",Beritasatu World	
+#EXTINF:-1 tvg-chno="304" group-title="Indonesia",Beritasatu World
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
 #EXTINF:-1 group-title="Indonesia",Bandung TV
@@ -417,7 +417,7 @@ http://185.246.209.109:8080/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",IMC
 https://cdnjt25.useetv.com/joss/14/imc/chunklist_w967846953_b684100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JBWjYhJ.png" group-title="Movies",Movie 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies", Star Movies

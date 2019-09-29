@@ -10,7 +10,7 @@ master : A tested branch where only few channel that not working (maybe because 
 
 Playlists :
 
-iptv.m3u : A playlist of Working and *NOT* Working m3u iptv Channels                                                                    
+iptv.m3u : A playlist of Working and *NOT* Working m3u iptv Channels.                                                                    
 useetv.m3u : A playlist of m3u iptv channels from UseeTV GO (useetv.com) which not working on KODI [DISCONTINUED]                                                           
 sortedtv.m3u : A playlist of channel that working on Perfect Player and TiviMate (may not working on KODI)
 

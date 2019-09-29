@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<settings>
+
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
+
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">mdb</postprocess>
+  <user-agent>Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">5</retry>
+  <timespan>7</timespan>
+  <update>f</update>
+
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+
+    <channel update="i" site="mncvision.id.E" site_id="240" xmltv_id="AFC">AFC</channel>
+    <channel update="i" site="mncvision.id.E" site_id="157" xmltv_id="ANIMAX">ANIMAX</channel>
+    <channel update="i" site="transvision.co.id" site_id="ANIP" xmltv_id="ANIPLUS">ANIPLUS</channel>
+    <channel update="i" site="mncvision.id.E" site_id="115" xmltv_id="ANTV">ANTV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="351" xmltv_id="Arirang">Arirang</channel>
+    <channel update="i" site="mncvision.id.E" site_id="154" xmltv_id="AXN">AXN</channel>
+    <channel update="i" site="mncvision.id.E" site_id="103" xmltv_id="BeritaSatu">BeritaSatu</channel>
+    <channel update="i" site="mncvision.id.E" site_id="338" xmltv_id="Bloomberg">Bloomberg</channel>
+    <channel update="i" site="transvision.co.id" site_id="RTLK" xmltv_id="BlueAntE">BlueAntE</channel>
+    <channel update="i" site="transvision.co.id" site_id="CC9" xmltv_id="CGTNDoc">CGTNDoc</channel>
+    <channel update="i" site="transvision.co.id" site_id="NAC" xmltv_id="CNA">CNA</channel>
+    <channel update="i" site="transvision.co.id" site_id="CNI" xmltv_id="CNNID">CNNID</channel>
+    <channel update="i" site="transvision.co.id" site_id="DAAI" xmltv_id="DAAI">DAAI</channel>
+    <channel update="i" site="mncvision.id.E" site_id="162" xmltv_id="DIVA">DIVA</channel>
+    <channel update="i" site="mncvision.id.E" site_id="357" xmltv_id="DW">DW</channel>
+    <channel update="i" site="mncvision.id.E" site_id="242" xmltv_id="E!">E!</channel>
+    <channel update="i" site="mncvision.id.E" site_id="334" xmltv_id="EURONEWS">EURONEWS</channel>
+    <channel update="i" site="mncvision.id.E" site_id="352" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="transvision.co.id" site_id="GEM" xmltv_id="GEMTV">GEMTV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="81" xmltv_id="Global TV">Global TV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="78" xmltv_id="Indosiar">Indosiar</channel>
+    <channel update="i" site="mncvision.id.E" site_id="107" xmltv_id="Metro TV">Metro TV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="84" xmltv_id="MNC News">MNC News</channel>
+    <channel update="i" site="mncvision.id.E" site_id="102" xmltv_id="MNC Sports">MNC Sports</channel>
+    <channel update="i" site="mncvision.id.E" site_id="82" xmltv_id="MNC TV">MNC TV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="164" xmltv_id="ONETV">ONETV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="89" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="19" xmltv_id="Thrill">Thrill</channel>
+    <channel update="i" site="mncvision.id.E" site_id="87" xmltv_id="Trans TV">Trans TV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="110" xmltv_id="Trans 7">Trans 7</channel>
+    <channel update="i" site="mncvision.id.E" site_id="97" xmltv_id="TVONE">TVONE</channel>
+    <channel update="i" site="mncvision.id.E" site_id="118" xmltv_id="TVRI">TVRI</channel>
+    <channel update="i" site="mncvision.id.E" site_id="83" xmltv_id="iNews">iNews</channel>
+    <channel update="i" site="mncvision.id.E" site_id="80" xmltv_id="RCTI">RCTI</channel>
+    <channel update="i" site="mncvision.id.E" site_id="114" xmltv_id="RTV">RTV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="116" xmltv_id="NET">NET. TV</channel>
+    <channel update="i" site="mncvision.id.E" site_id="23" xmltv_id="ZEE">ZEE</channel>
+
+</settings>

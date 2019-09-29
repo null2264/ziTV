@@ -1,0 +1,5 @@
+#  Hot_Cookies, saved for the purpose of an actual WebGrab run
+#  Saved by WG++ 11/09/2019 13:24
+#  Response cookie from url :https://www.transvision.co.id/jadwalacara/epg
+
+www.transvision.co.id	FALSE	/	FALSE	0	%40Transvision2014_NewWebsite%40	5olorcoti5814a0ojrkhq8t3k6
