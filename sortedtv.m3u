@@ -81,7 +81,7 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.imgur.com/i2wf5j6.png" group-title="Lokal",RCTI HD
-http://202.80.222.171/000001/2/ch14041511532707866226/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570236413~exp=9007200824977404~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d4c5f7853b6a0b41c6b1bcff682a3e4752c9fdba4936b4ef7536c5ba88a1a393
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/UheVOjO.png" group-title="Lokal",RRI NET
 http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
