@@ -512,8 +512,14 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1j67xU.png" group-title="Knowledge",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTNDoc" tvg-logo="https://i.imgur.com/g1xqMUm.png" group-title="Knowledge",CGTN
+#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTNDoc" tvg-logo="https://i.imgur.com/g1xqMUm.png" group-title="Knowledge",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+
+#EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTNDoc" tvg-logo="https://i.imgur.com/g1xqMUm.png" group-title="Knowledge",CGTN Documentary HD
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="CGTNEng" tvg-name="CGTNEng" tvg-logo="" group-title="Knowledge",CGTN English
+https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18600
