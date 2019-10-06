@@ -643,7 +643,7 @@ http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcZ2L0K.png" group-title="Entertainment", tvN
-#http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="Entertainment",WakuWaku Japan
 #https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
