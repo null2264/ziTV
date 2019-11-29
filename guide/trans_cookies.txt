@@ -1,3 +1,0 @@
-.transvision.co.id	TRUE	/	FALSE	1583310437	__tawkuuid	e::transvision.co.id::FUx3AYlaYMs4nKfr/mxPhKyE0YOA74+Jp8PIKkam5LfamqJERQs5XAgBO6vPwlb9::2
-www.transvision.co.id	FALSE	/	FALSE	0	%40Transvision2014_NewWebsite%40	v6ieteqvn18g6ghi2rd5evjgv6
-www.transvision.co.id	FALSE	/	FALSE	0	TawkConnectionTime	1567830812555
