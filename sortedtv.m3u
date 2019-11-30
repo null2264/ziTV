@@ -62,11 +62,11 @@ http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/Cn3KndO.png" group-title="Lokal",MyTV
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479330~exp=9007200824220321~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_2/chunklist.m3u8*~hmac=2bc9683b61469ab3a971c3f3056ba12940835120f55d99df3059ffe137322d7f
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/5DRmaCP.png" group-title="Lokal",NET. TV SD
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/5DRmaCP.png" group-title="Lokal",NET. TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/ONeBGaK.png" group-title="Lokal",NET. TV HD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/ONeBGaK.png" group-title="Lokal",NET. TV [Alt]
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/H8SydXk.png" group-title="Lokal",PalTV
 http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
