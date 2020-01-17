@@ -64,7 +64,8 @@ https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/ONeBGaK.png" group-title="Lokal",NET. TV [Alt]
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
+https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
+#http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/H8SydXk.png" group-title="Lokal",PalTV
 http://stream1.ninmedia.tv/paltv/rtmp.stream/playlist.m3u8
@@ -207,13 +208,15 @@ http://210.210.155.35/uq2663/h/h05/02.m3u8
 http://ott-cdn.ucom.am/s86/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k5FW8QH.png" group-title="Sports",Fox Sports 1
-https://live.youlive-cdn.com/02_foxsport_720p/chunklist.m3u8
+https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6rHRqf.png" group-title="Sports",Fox Sports 2
-https://live.youlive-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+#https://live.youlive-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9ZPrmx.png" group-title="Sports",Fox Sports 3
-https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports3.m3u8
+#https://live.youlive-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLKZxzg.png" group-title="Sports",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
@@ -245,33 +248,6 @@ http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2096000.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DC6bggh.png" group-title="Sports",SBS Golf
 http://122.129.115.21:1935/edgedol/_definst_/tao129/chunklist_w941530590.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ZwLU6q.png" group-title="Sports",Setanta Sports
-http://ott-cdn.ucom.am/s81/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EgUiE4H.png" group-title="Sports",SkyNet Sports 1
-https://live.youlive-cdn.com/03_skynetsport1_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2omoDC5.png" group-title="Sports",SkyNet Sports 2
-https://live.youlive-cdn.com/03_skynetsport2_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uS4bbwK.png" group-title="Sports",SkyNet Sports 3
-https://live.youlive-cdn.com/03_skynetsport3_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PEcJ1gY.png" group-title="Sports",SkyNet Sports 4
-https://live.youlive-cdn.com/03_skynetsport4_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BSzuvR2.png" group-title="Sports",SkyNet Sports 5
-https://live.youlive-cdn.com/03_skynetsport5_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cdsWmCf.png" group-title="Sports",SkyNet Sports 6
-https://live.youlive-cdn.com/03_skynetsport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UR3Kmxr.png" group-title="Sports",SkyNet Sports HD
-https://live.youlive-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ewbiHY.png" group-title="Sports",SkyNet Sports Plus
-http://190.2.154.164:80/TV0666
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2JpVwJ.png" group-title="Sports",Sony Six
 http://130.185.150.79:1935/trunk/SONY-SIX/chunklist_w1719697475.m3u8
 
@@ -299,7 +275,8 @@ http://210.210.155.35:80/qwr9ew/s/s107/index1.m3u8
 http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Anhz5fT.png" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/04.m3u8
+https://anevia115.mncnow.id/live/eds/BBCWorldNews/sa_hls/BBCWorldNews.m3u8
+#http://ott-cdn.ucom.am/s24/04.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu" tvg-name="BeritaSatu" tvg-chno="" tvg-logo="https://i.imgur.com/s8RFhAC.png" group-title="News",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
@@ -338,7 +315,8 @@ http://ott-cdn.ucom.am/s65/04.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672932981_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dUPfBkN.png" group-title="News",CNN International
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
+https://anevia115.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational.m3u8
+#http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://i.imgur.com/mjxVUwg.png" group-title="News",DW
 http://210.210.155.35/qwr9ew/s/s26/01.m3u8
@@ -351,6 +329,9 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/dweng.m3u8
 
 #EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://i.imgur.com/J5vLeEP.png" group-title="News",Euronews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News",FOX News
+https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
 
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://i.imgur.com/1650Czz.png" group-title="News",France 24
 http://210.210.155.35/qwr9ew/s/s22/01.m3u8
@@ -440,7 +421,8 @@ http://rr2.dens.tv/s/s32/01.m3u8
 ##### Music #####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/roGgHOC.png" group-title="Music",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566984~exp=9007200824307975~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=2572e5c41c0f1a60b1023922742e5afba48fa34ba1edf2363b3a23a72c07ba66
+https://anevia115.mncnow.id/live/eds/ClubbingTV/sa_hls/ClubbingTV.m3u8
+#https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566984~exp=9007200824307975~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=2572e5c41c0f1a60b1023922742e5afba48fa34ba1edf2363b3a23a72c07ba66
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y1xVwIh.png" group-title="Music",Dangdutz
 http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
@@ -463,26 +445,27 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 #https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5l7LRB.png" group-title="Kids",Boomerang
-#http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18605
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://i.imgur.com/cTitjKv.png" group-title="Kids",Cartoon Network
-http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
 #http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids",Da Vinci Learning
 #https://cdnbdsa1.useetv.com/joss/14/davinci/chunklist_w1758212981_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="DISNID" tvg-name="DISNID" tvg-logo="https://i.imgur.com/f9uTkT2.png" group-title="Kids",Disney Channel
-http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disney
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior
-http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyjr
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior ID
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4IsE44j.png" group-title="Kids",Disney Junior ID [2]
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EPapBJ.png" group-title="Kids",Disney XD
-http://sports24.club:80/live/m3u8/espn3.m3u8?ch=disneyxd
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X3bJ5SB.png" group-title="Kids",DreamWorks
 http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18638
@@ -497,10 +480,12 @@ http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18638
 #https://cdnmdc1.useetv.com/joss/14/horee/chunklist_w1544184218_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="NICKJRID" tvg-name="NICKJRID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids",Nick Jr.
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #https://cdnjt25.useetv.com/joss/194/nickjr/chunklist_w1977672417_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="NICKID" tvg-name="NICKID" tvg-logo="https://i.imgur.com/KHOXbpX.png" group-title="Kids",Nickelodeon
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3DE847863636D558FBE78F&profile=pass
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+#http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3DE847863636D558FBE78F&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png?v=2.0.0.13" group-title="Kids",Spacetoons Plus
 #https://cdnbdsa1.useetv.com/joss/14/spacetoonplus/chunklist_w659961372_b684100_sleng.m3u8
@@ -508,7 +493,8 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=F57E6C7BF603BEAC8D3
 ##### Knowledge #####
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1j67xU.png" group-title="Knowledge",Animal Planet
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+https://anevia115.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+#http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
 #EXTINF:-1 tvg-id="CGTNDoc" tvg-name="CGTNDoc" tvg-logo="https://i.imgur.com/g1xqMUm.png" group-title="Knowledge",CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
@@ -520,10 +506,14 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="Knowledge",Discovery
+https://anevia115.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18600
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ICNg2uI.png" group-title="Knowledge",Docubox HD
 http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",History
+https://anevia115.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZfiXrN.png" group-title="Knowledge",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -562,6 +552,9 @@ http://edge.linknetott.swiftserve.com:80/live/BSgroup/amlst:foodiee/chunklist_b2
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle", Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title"Lifestyle", Lifetime
+https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
 ##### Entertainment #####
 
@@ -605,12 +598,14 @@ http://210.210.155.35/uq2663/h/h11/index2.m3u8
 #https://cdnjt21.useetv.com/joss/14/dunialain/chunklist_w831999399_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBjPhgt.png" group-title="Entertainment",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+https://anevia115.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+#http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FOX Life
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18591
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",FX
+https://anevia115.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18585
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png?v=2.0.0.13" group-title="Entertainment",Hi Indo!
@@ -627,6 +622,9 @@ http://210.210.155.35/uq2663/h/h07/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World Japan
 http://210.210.155.35/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World Premium
+https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ohk_small.png?v=2.0.0.13" group-title="Entertainment",Oh!K
 #https://cdnkbl1.useetv.com/joss/17/ohk/chunklist_w1676023464_b1344100_sleng.m3u8
@@ -650,9 +648,11 @@ http://210.210.155.35:80/qwr9ew/s/s24/index2.m3u8
 http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png?v=2.0.0.13" group-title="Entertainment",WakuWaku Japan
+https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #https://cdnbdsa1.useetv.com/joss/17/wakuwaku/chunklist_w690663546_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png?v=2.0.0.13" group-title="Entertainment",Warner TV
+https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #http://energyiptv.streamtv.to:8080/uOftAek2ux/oIWcQnHYHa/18550
 
 ##### Religi #####
