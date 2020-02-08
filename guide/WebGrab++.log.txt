@@ -7,24 +7,61 @@
 [        ]             thanks to Paul Weterings and all the contributing users             
 [        ] --------------------------------------------------------------------------------
 [        ] 
-[        ] Job started at 29/11/2019 08:22:41
+[        ] Job started at 08/02/2020 14:50:51
 [  Debug ] 
-[  Debug ] Running  on: Unix 4.15.0.70
+[  Debug ] Running  on: Unix 5.4.15.1
 [  Debug ] Environment: 4.0.30319.42000
-[  Debug ] Mono version: 4.6.2 (Debian 4.6.2.7+dfsg-1ubuntu1)
+[  Debug ] Mono version: 6.4.0 (makepkg/fe64a4765e6 Sat 16 Nov 2019 04:59:42 PM UTC)
 [  Debug ] 
 [  Debug ] Loading timezone data
 [  Debug ] Embedded timezones source: timezone.timezonesdata.txt
-[  Debug ] Reading config file: /home/ziro/Documents/GitHub/myTV/guide/./WebGrab++.config.xml
+[  Debug ] Reading config file: /home/ziro/myTV/guide/./WebGrab++.config.xml
 [  Debug ] 
-[  Info  ] found: /home/ziro/Documents/GitHub/myTV/guide/./siteini.pack/Indonesia/mncvision.id.E.ini -- Revision 05
+[  Info  ] found: /home/ziro/myTV/guide/./siteini.pack/Indonesia/mncvision.id.E.ini -- Revision 05
 [  Info  ] encrypted
-[  Debug ] WARNING : load cookie fails for transvision.co.id!
-[  Debug ] Could not find file "/home/ziro/Documents/GitHub/myTV/guide/hot_cookies.txt".
+[  Debug ] Reading cookie file: /home/ziro/myTV/guide/./hot_cookies.txt
 [  Debug ] 
-[  Info  ] found: /home/ziro/Documents/GitHub/myTV/guide/./siteini.pack/Indonesia/transvision.co.id.ini -- Revision 04
+[  Info  ] found: /home/ziro/myTV/guide/./siteini.pack/Indonesia/transvision.co.id.ini -- Revision 04
 [  Info  ] encrypted
-[  Info  ] input file /home/ziro/Documents/GitHub/myTV/guide/guide.xml not found   ... created a new one ... 
+[  Debug ] xmltv input file - /home/ziro/myTV/guide/guide.xml - found
+[  Debug ] 0 superfluous shows removed
+[  Info  ] Found existing channel (xmltv_id=AFC) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANIMAX) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANIPLUS) in the config file
+[  Info  ] Found existing channel (xmltv_id=ANTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Arirang) in the config file
+[  Info  ] Found existing channel (xmltv_id=AXN) in the config file
+[  Info  ] Found existing channel (xmltv_id=BeritaSatu) in the config file
+[  Info  ] Found existing channel (xmltv_id=Bloomberg) in the config file
+[  Info  ] Found existing channel (xmltv_id=BlueAntE) in the config file
+[  Info  ] Found existing channel (xmltv_id=CGTNDoc) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNA) in the config file
+[  Info  ] Found existing channel (xmltv_id=CNNID) in the config file
+[  Info  ] Found existing channel (xmltv_id=DAAI) in the config file
+[  Info  ] Found existing channel (xmltv_id=DIVA) in the config file
+[  Info  ] Found existing channel (xmltv_id=DW) in the config file
+[  Info  ] Found existing channel (xmltv_id=E!) in the config file
+[  Info  ] Found existing channel (xmltv_id=EURONEWS) in the config file
+[  Info  ] Found existing channel (xmltv_id=France 24) in the config file
+[  Info  ] Found existing channel (xmltv_id=GEMTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Global TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Indosiar) in the config file
+[  Info  ] Found existing channel (xmltv_id=Metro TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=MNC News) in the config file
+[  Info  ] Found existing channel (xmltv_id=MNC Sports) in the config file
+[  Info  ] Found existing channel (xmltv_id=MNC TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=ONETV) in the config file
+[  Info  ] Found existing channel (xmltv_id=SCTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Thrill) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trans TV) in the config file
+[  Info  ] Found existing channel (xmltv_id=Trans 7) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVONE) in the config file
+[  Info  ] Found existing channel (xmltv_id=TVRI) in the config file
+[  Info  ] Found existing channel (xmltv_id=iNews) in the config file
+[  Info  ] Found existing channel (xmltv_id=RCTI) in the config file
+[  Info  ] Found existing channel (xmltv_id=RTV) in the config file
+[  Info  ] Found existing channel (xmltv_id=NET) in the config file
+[  Info  ] Found existing channel (xmltv_id=ZEE) in the config file
 [  Info  ] 
 [  Info  ] 
 [  Info  ]       i=index  .=same  c=change  g=gab  r=replace  n=new
@@ -34,174 +71,194 @@
 [  Info  ] update requested for - 37 - out of - 37 - channels for 8 day(s)
 [  Debug ] 
 [  Info  ] (   1/37  ) MNCVISION.ID.E -- chan. (xmltv_id=AFC) -- mode Force
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (20sec)
+[Warning ] Retry 4 of 5 times
+[Warning ] error downloading page: The operation has timed out. (25sec)
+[Warning ] Retry 5 of 5 times
+[Error   ] Unable to update channel AFC
+[Critical] Generic syntax exception:
+[Critical]    message: 
+[Error   ] no index page data received from AFC
+[Error   ] unable to update channel, try again later
+[  Info  ] Existing guide data restored!
+[  Debug ] 
+[  Info  ] (   1/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ANIMAX) -- mode Force
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (20sec)
+[Warning ] Retry 4 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (20sec)
+[Warning ] Retry 4 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (5sec)
+[Warning ] Retry 1 of 5 times
+[Warning ] error downloading page: The operation has timed out. (10sec)
+[Warning ] Retry 2 of 5 times
+[Warning ] error downloading page: The operation has timed out. (15sec)
+[Warning ] Retry 3 of 5 times
+[Warning ] error downloading page: The operation has timed out. (20sec)
+[Warning ] Retry 4 of 5 times
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (   2/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ANIPLUS) -- mode Force
 [Warning ] no robots data found
 [Warning ] skipped robots check
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: Error: SecureChannelFailure (The authentication or decryption has failed.)
-[Warning ] pausing 4 of 5 times for 20 seconds before re-try.
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
-[Warning ] error downloading page: The request timed out (5sec)
-[Warning ] Retry 1 of 5 times
-[Warning ] error downloading page: The request timed out (10sec)
-[Warning ] Retry 2 of 5 times
-[Warning ] error downloading page: The request timed out (15sec)
-[Warning ] Retry 3 of 5 times
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   2/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ANIMAX) -- mode Force
-[  Info  ] 
-[Error   ] 
-[Error   ] (   3/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=ANIPLUS) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[  Debug ] 
-[  Info  ] (   4/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ANTV) -- mode Force
+[  Info  ] (   3/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ANTV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   5/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Arirang) -- mode Force
+[  Info  ] (   4/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Arirang) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   6/37  ) MNCVISION.ID.E -- chan. (xmltv_id=AXN) -- mode Force
+[  Info  ] (   5/37  ) MNCVISION.ID.E -- chan. (xmltv_id=AXN) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   7/37  ) MNCVISION.ID.E -- chan. (xmltv_id=BeritaSatu) -- mode Force
+[  Info  ] (   6/37  ) MNCVISION.ID.E -- chan. (xmltv_id=BeritaSatu) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (   8/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Bloomberg) -- mode Force
-[  Info  ] 
-[Error   ] 
-[Error   ] (   9/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=BlueAntE) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[Error   ] 
-[Error   ] (  10/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CGTNDoc) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[Error   ] 
-[Error   ] (  11/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNA) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[Error   ] 
-[Error   ] (  12/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNNID) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[Error   ] 
-[Error   ] (  13/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DAAI) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[  Debug ] 
-[  Info  ] (  14/37  ) MNCVISION.ID.E -- chan. (xmltv_id=DIVA) -- mode Force
+[  Info  ] (   7/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Bloomberg) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  15/37  ) MNCVISION.ID.E -- chan. (xmltv_id=DW) -- mode Force
+[  Info  ] (   8/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=BlueAntE) -- mode Force
+[Error   ] no shows in indexpage!
+[  Info  ] 
+[  Info  ]    Summary for update of       BlueAntE
+[  Info  ]      no changes, no update necessary !
+[  Info  ]      unchanged shows inspected 0
+[  Info  ]      total after update        0
+
+[  Debug ] 
+[  Info  ] (   9/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CGTNDoc) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  16/37  ) MNCVISION.ID.E -- chan. (xmltv_id=E!) -- mode Force
+[  Info  ] (  10/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNA) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  17/37  ) MNCVISION.ID.E -- chan. (xmltv_id=EURONEWS) -- mode Force
+[  Info  ] (  11/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=CNNID) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  12/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=DAAI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  13/37  ) MNCVISION.ID.E -- chan. (xmltv_id=DIVA) -- mode Force
 [Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  18/37  ) MNCVISION.ID.E -- chan. (xmltv_id=France 24) -- mode Force
-[  Info  ] 
-[Error   ] 
-[Error   ] (  19/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=GEMTV) -- mode Force
-[Error   ] cannot find /home/ziro/Documents/GitHub/myTV/guide/./hot_cookies.txt !
-[Error   ] loadcookie failed! ... cannot update this channel
-[  Debug ] 
-[  Info  ] (  20/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Global TV) -- mode Force
+[  Info  ] (  14/37  ) MNCVISION.ID.E -- chan. (xmltv_id=DW) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  21/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Indosiar) -- mode Force
+[  Info  ] (  15/37  ) MNCVISION.ID.E -- chan. (xmltv_id=E!) -- mode Force
+[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  22/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Metro TV) -- mode Force
+[  Info  ] (  16/37  ) MNCVISION.ID.E -- chan. (xmltv_id=EURONEWS) -- mode Force
+[Error   ] no shows in indexpage!
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  23/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC News) -- mode Force
+[  Info  ] (  17/37  ) MNCVISION.ID.E -- chan. (xmltv_id=France 24) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  24/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC Sports) -- mode Force
+[  Info  ] (  18/37  ) TRANSVISION.CO.ID -- chan. (xmltv_id=GEMTV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  25/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC TV) -- mode Force
+[  Info  ] (  19/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Global TV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  26/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ONETV) -- mode Force
+[  Info  ] (  20/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Indosiar) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  27/37  ) MNCVISION.ID.E -- chan. (xmltv_id=SCTV) -- mode Force
+[  Info  ] (  21/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Metro TV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  28/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Thrill) -- mode Force
+[  Info  ] (  22/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC News) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  29/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Trans TV) -- mode Force
+[  Info  ] (  23/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC Sports) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  30/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Trans 7) -- mode Force
+[  Info  ] (  24/37  ) MNCVISION.ID.E -- chan. (xmltv_id=MNC TV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  31/37  ) MNCVISION.ID.E -- chan. (xmltv_id=TVONE) -- mode Force
+[  Info  ] (  25/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ONETV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  32/37  ) MNCVISION.ID.E -- chan. (xmltv_id=TVRI) -- mode Force
+[  Info  ] (  26/37  ) MNCVISION.ID.E -- chan. (xmltv_id=SCTV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  33/37  ) MNCVISION.ID.E -- chan. (xmltv_id=iNews) -- mode Force
+[  Info  ] (  27/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Thrill) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  34/37  ) MNCVISION.ID.E -- chan. (xmltv_id=RCTI) -- mode Force
+[  Info  ] (  28/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Trans TV) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  35/37  ) MNCVISION.ID.E -- chan. (xmltv_id=RTV) -- mode Force
+[  Info  ] (  29/37  ) MNCVISION.ID.E -- chan. (xmltv_id=Trans 7) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  36/37  ) MNCVISION.ID.E -- chan. (xmltv_id=NET) -- mode Force
+[  Info  ] (  30/37  ) MNCVISION.ID.E -- chan. (xmltv_id=TVONE) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Info  ] (  37/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ZEE) -- mode Force
+[  Info  ] (  31/37  ) MNCVISION.ID.E -- chan. (xmltv_id=TVRI) -- mode Force
 [  Info  ] 
 [  Debug ] 
-[  Debug ] 7136 shows in 37 channels
+[  Info  ] (  32/37  ) MNCVISION.ID.E -- chan. (xmltv_id=iNews) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  33/37  ) MNCVISION.ID.E -- chan. (xmltv_id=RCTI) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  34/37  ) MNCVISION.ID.E -- chan. (xmltv_id=RTV) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  35/37  ) MNCVISION.ID.E -- chan. (xmltv_id=NET) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Info  ] (  36/37  ) MNCVISION.ID.E -- chan. (xmltv_id=ZEE) -- mode Force
+[  Info  ] 
+[  Debug ] 
+[  Debug ] 8285 shows in 37 channels
 [  Debug ] 0 updated shows
-[  Debug ] 7136 new shows added
+[  Debug ] 8285 new shows added
 [  Info  ] 
 [  Info  ] 
-[        ] Job finished at 29/11/2019 08:41:58 done in 19m 16s
+[        ] Job finished at 08/02/2020 15:21:00 done in 30m 9s
 [  Debug ] statistics upload error: The remote server returned an error: (404) Not Found.
