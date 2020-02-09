@@ -627,7 +627,7 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World TV
-https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV-avc1_1000000=7.m3u8
+channels/nhkworldtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ohk_small.png?v=2.0.0.13" group-title="Entertainment",Oh!K
 #https://cdnkbl1.useetv.com/joss/17/ohk/chunklist_w1676023464_b1344100_sleng.m3u8
