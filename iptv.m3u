@@ -28,7 +28,7 @@ http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomai
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569479010~exp=9007200824220001~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=7b3163eb0ad88199e9a6738f6418046fcc1354f8f2b5ef34cf10545fdf5e86d2
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://i.imgur.com/K3ljzIw.png" group-title="Lokal",Indosiar
-http://202.80.222.182/000001/2/ch15051810235326945512/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-id="iNews" tvg-name="iNews" tvg-chno="" tvg-logo="https://i.imgur.com/ActBaK2.png" group-title="Lokal",iNews
 http://202.80.222.171:80/000001/2/ch14041511541532132975/1003.m3u8?zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
@@ -625,6 +625,9 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World Premium
 https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World TV
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_hls/NHKWorldTV-avc1_1000000=7.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ohk_small.png?v=2.0.0.13" group-title="Entertainment",Oh!K
 #https://cdnkbl1.useetv.com/joss/17/ohk/chunklist_w1676023464_b1344100_sleng.m3u8
