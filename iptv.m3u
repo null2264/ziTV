@@ -445,10 +445,10 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 #https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5l7LRB.png" group-title="Kids",Boomerang
-channels/boomerang.m3u8
+https://raw.githubusercontent.com/null2264/myTV/master/channels/boomerang.m3u8
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://i.imgur.com/cTitjKv.png" group-title="Kids",Cartoon Network
-channels/cartoonnetwork.m3u8
+https://raw.githubusercontent.com/null2264/myTV/master/channels/cartoonnetwork.m3u8
 #http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
 #http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
 
@@ -627,7 +627,7 @@ http://210.210.155.35/uq2663/h/h23/01.m3u8
 https://anevia115.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wci3Erp.png" group-title="Entertainment",NHK World TV
-channels/nhkworldtv.m3u8
+https://raw.githubusercontent.com/null2264/myTV/master/channels/nhkworldtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ohk_small.png?v=2.0.0.13" group-title="Entertainment",Oh!K
 #https://cdnkbl1.useetv.com/joss/17/ohk/chunklist_w1676023464_b1344100_sleng.m3u8
