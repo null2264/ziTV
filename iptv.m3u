@@ -445,10 +445,10 @@ https://raw.githubusercontent.com/null2264/myTV/dev/channels/mtv.m3u8
 #https://cdnmdc1.useetv.com/joss/14/babyfirst/chunklist_w1001611928_b684100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N5l7LRB.png" group-title="Kids",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+channels/boomerang.m3u8
 
 #EXTINF:-1 tvg-id="CNetID" tvg-name="CNetID" tvg-logo="https://i.imgur.com/cTitjKv.png" group-title="Kids",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+channels/cartoonnetwork.m3u8
 #http://161.0.157.9/PLTV/88888888/224/3221226843/01.m3u8
 #http://203.153.218.28:9981/stream/channelid/251475608?ticket=29A7CCA000B8D26ED169C43187FF9F2BBA617783&profile=pass
 
@@ -562,7 +562,7 @@ https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer6.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
-http://210.210.155.35/dr9445/h/h144/01.m3u8
+https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11.m3u8
 
 #EXTINF:-1 tvg-id="ANIPLUS" tvg-name="ANIPLUS" tvg-logo="https://i.imgur.com/U8uIz0v.png" group-title="Entertainment",ANIPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
