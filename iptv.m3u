@@ -64,7 +64,7 @@ https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="NET" tvg-name="NET. TV" tvg-logo="https://i.imgur.com/ONeBGaK.png" group-title="Lokal",NET. TV [Alt]
-https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
+#https://anevia115.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219782019062322524313983108
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://i.imgur.com/H8SydXk.png" group-title="Lokal",PalTV
@@ -104,7 +104,7 @@ http://210.210.155.35/qwr9ew/s/s100/01.m3u8
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+http://210.210.155.35/session/c97ae96e-7d4f-11ea-bd41-b82a72d63267/qwr9ew/s/s11/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI Kanal 3
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
