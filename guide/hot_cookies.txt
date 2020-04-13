@@ -1,5 +1,5 @@
 #  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 08/02/2020 15:21
-#  Response cookie from url :https://mncvision.id/schedule/detail/2020021523000023/Ishqedarriyaan/1
+#  Saved by WG++ 13/04/2020 14:17
+#  Response cookie from url :https://mncvision.id/schedule/detail/2020042023000023/Happy-New-Year/1
 
-mncvision.id	FALSE	/	FALSE	1581177686	s1nd0vL	24860e18cfe5a4bb4821b423ac16cd54bb38de18
+mncvision.id	FALSE	/	FALSE	1586791063	s1nd0vL	bfcd50d0f8fef3d6bf7f43d96632d32891b4a0ca
