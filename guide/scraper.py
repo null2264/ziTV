@@ -15,7 +15,8 @@ class TVScraper(object):
         self.options = []
         for option in soup.find_all("option"):
             self.options.append(option["value"])
-
+    
+    #TODO: Make this function able to get channels from multiple source
     def get_channels(self, print_=False):
         if print_:
             for option in self.options:
