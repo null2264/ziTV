@@ -1,5 +1,0 @@
-#  Hot_Cookies, saved for the purpose of an actual WebGrab run
-#  Saved by WG++ 13/04/2020 14:17
-#  Response cookie from url :https://mncvision.id/schedule/detail/2020042023000023/Happy-New-Year/1
-
-mncvision.id	FALSE	/	FALSE	1586791063	s1nd0vL	bfcd50d0f8fef3d6bf7f43d96632d32891b4a0ca
