@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from channels import channels
 from datetime import datetime, timedelta
+from xml.etree import ElementTree as ET
 
 class TVScraper(object):
     def __init__(self):
@@ -50,10 +51,11 @@ class TVScraper(object):
 
         return table_times, table_shows, req["fchannel"]
 
-    def print_things(self, ch):
-        times, shows, channel = self.get_shows(ch, datetime.now().strftime('%Y-%m-%d'))
-        _date = datetime.now()
+    def print_things(self, ch, days):
+        _date = datetime.now() + timedelta(days=days)
+        times, shows_name, channel = self.get_shows(ch, datetime.now().strftime('%Y-%m-%d'))
         _next_date = _date + timedelta(days=1)
+        shows = ""
         for i in range(len(times)):
             date = _date.strftime('%Y-%m-%d')
             next_date = _next_date.strftime('%Y%m%d')
@@ -74,27 +76,30 @@ class TVScraper(object):
                 )
             time_1 += " +0700"
             time_2 += " +0700"
-            print(
-                f'  <programme start="{time_1}" stop="{time_2}" channel="{channel[1]}">'
-            )
-            print(f'    <title lang="id">{shows[int(i)]}</title>')
-            print(f"  </programme>")
-            # print(f"{time_1} {time_2} - {shows[int(i)]}")
-
-
+            shows += f'\n  <programme start="{time_1}" stop="{time_2}" channel="{channel[1]}">'
+            shows += f'\n    <title lang="id">{shows_name[int(i)]}</title>'
+            shows += f"\n  </programme>"
+        return shows
+            
+days = int(input("Days: "))
+print("Starting Scraper...")
 tv = TVScraper()
-print('<?xml version="1.0" encoding="UTF-8"?>')
-print(
-    '<tv generator-info-name="ziTVScraper" generator-info-url="http://github.com/null2264">'
-)
+xml_data = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n\
+<tv generator-info-name=\"ziTVScraper\" generator-info-url=\"http://github.com/null2264\">"
 tv_channels = list(tv.get_channels())
+print("Getting channels...")
 for _tv in tv_channels:
     channel = int(_tv)
-    print(f'  <channel id="{channel}">')
-    print(f"    <display-name lang=\"id\">{channels['mnc'][channel]}</display-name>")
-    print(f"  </channel>")
+    xml_data += f"\n  <channel id=\"{channel}\">"
+    xml_data += f"\n    <display-name lang=\"id\">{channels['mnc'][channel]}</display-name>"
+    xml_data += f"\n  </channel>"
 for _tv in tv_channels:
-    tv.print_things(int(_tv))
-print("</tv>")
-# _input=int(input())
-# print(chr(27) + "[2J")
+    print(f"Getting shows from {channels['mnc'][int(_tv)]}...")
+    for day in range(days):
+        # print(f"Day {day+1}...")
+        xml_data += tv.print_things(int(_tv), day)
+xml_data += "\n</tv>"
+
+print("Creating file...")
+with open("guide/guide.xml", "w+") as f:
+    f.write(xml_data)
