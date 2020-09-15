@@ -1,3 +1,10 @@
+import json
+import requests
+
+from bs4 import BeautifulSoup
+from channels import channels
+from datetime import datetime, timedelta
+
 channels = {
     350: "ABC Australia",
     331: "Al Jazeera English",
@@ -155,11 +162,11 @@ class Mnc(object):
                 print(f"{option} {channels['mnc'][int(option)]}")
         return self.options
 
-    def get_shows(self, selected_channel):
+    def get_shows(self, selected_channel, date):
         req = {
             "search_model": (None, "channel"),
             "af0rmelement": (None, "aformelement"),
-            "fdate": (None, "2020-09-11"),
+            "fdate": (None, date),
             "fchannel": (None, selected_channel),
             "submit": (None, "Cari"),
         }
@@ -180,7 +187,7 @@ class Mnc(object):
             else:
                 table_times.append(table_time_raw[i].get_text())
 
-        return req["fdate"], table_times, table_shows, req["fchannel"]
+        return table_times, table_shows, selected_channel
 
     def print_things(self, ch):
         date, times, shows, channel = self.get_shows(ch)
