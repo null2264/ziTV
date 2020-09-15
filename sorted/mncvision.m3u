@@ -6,6 +6,15 @@ http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="20" tvg-logo="https://i.imgur.com/WOGvqeP.png" group-title="Movies",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
+#EXTINF:-1 tvg-id="80" tvg-name="80" tvg-logo="https://i.imgur.com/iSs7UfE.png" group-title="Lokal",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+
+#EXTINF:-1 tvg-id="81" tvg-name="81" tvg-chno="" tvg-logo="https://i.imgur.com/MQiOEbD.png" group-title="Lokal",GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-chno="" tvg-logo="https://i.imgur.com/unZLRaS.png" group-title="Lokal",MNCTV
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+
 #EXTINF:-1 tvg-id="87" tvg-name="87" tvg-chno="" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
