@@ -1,4 +1,5 @@
 import json
+import re
 import requests
 import sys
 
@@ -113,10 +114,19 @@ class TVScraper(object):
             for code in htmlCodes:
                 showTitle = showTitle.replace(code[0], code[1])
 
+            episode = None
+            regexEp = r"^.*(, .* (.\d*))"
+            match = re.match(regexEp, showTitle)
+            if match:
+                episode = match.group(2)
+                showTitle = showTitle.replace(match.group(1), "")
+
             shows += (
                 f'\n  <programme start="{time_1}" stop="{time_2}" channel="{channel}">'
             )
             shows += f'\n    <title lang="id">{showTitle}</title>'
+            if episode:
+                shows += '\n    <episode-num system="onscreen">{}</episode-num>'.format(episode)
             shows += f"\n  </programme>"
         return shows
 
@@ -135,7 +145,7 @@ class TVScraper(object):
         for _tv in tv_channels:
             channel = int(_tv)
             xml_data += f'\n  <channel id="{channel}">'
-            xml_data += f"\n    <display-name>{channels['mnc'][channel]}</display-name>"
+            xml_data += f'\n    <display-name lang="id">{channels["mnc"][channel]}</display-name>'
             xml_data += f"\n  </channel>"
         for _tv in tv_channels:
             for day in range(days):
