@@ -1,31 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="19" tvg-name="19" tvg-logo="https://i.imgur.com/V6YHC3a.png" group-title="Entertainment",Thrill
+#EXTINF:-1 tvg-id="19" tvg-name="Thrill" tvg-logo="https://i.imgur.com/V6YHC3a.png" group-title="Entertainment",Thrill
 http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="20" tvg-logo="https://i.imgur.com/WOGvqeP.png" group-title="Movies",Celestial Movies
+#EXTINF:-1 tvg-id="20" tvg-name="Celestial Movies" tvg-logo="https://i.imgur.com/WOGvqeP.png" group-title="Movies",Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 
-#EXTINF:-1 tvg-id="80" tvg-name="80" tvg-logo="https://i.imgur.com/iSs7UfE.png" group-title="Lokal",RCTI
+#EXTINF:-1 tvg-id="80" tvg-name="RCTI" tvg-logo="https://i.imgur.com/iSs7UfE.png" group-title="Lokal",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
-#EXTINF:-1 tvg-id="81" tvg-name="81" tvg-chno="" tvg-logo="https://i.imgur.com/MQiOEbD.png" group-title="Lokal",GTV
+#EXTINF:-1 tvg-id="81" tvg-name="GTV" tvg-chno="" tvg-logo="https://i.imgur.com/MQiOEbD.png" group-title="Lokal",GTV
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
-#EXTINF:-1 tvg-id="82" tvg-name="82" tvg-chno="" tvg-logo="https://i.imgur.com/unZLRaS.png" group-title="Lokal",MNCTV
+#EXTINF:-1 tvg-id="82" tvg-name="MNCTV" tvg-chno="" tvg-logo="https://i.imgur.com/unZLRaS.png" group-title="Lokal",MNCTV
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="87" tvg-chno="" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
+#EXTINF:-1 tvg-id="87" tvg-name="TransTV" tvg-chno="" tvg-logo="https://i.imgur.com/K84YCYD.png" group-title="Lokal",TransTV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="107" tvg-chno="" tvg-logo="https://i.imgur.com/oaksmxV.png" group-title="Lokal",Metro TV
+#EXTINF:-1 tvg-id="107" tvg-name="Metro TV" tvg-chno="" tvg-logo="https://i.imgur.com/oaksmxV.png" group-title="Lokal",Metro TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="110" tvg-chno="" tvg-logo="https://i.imgur.com/SiJ3OlU.png" group-title="Lokal",Trans7
+#EXTINF:-1 tvg-id="110" tvg-name="Trans7" tvg-chno="" tvg-logo="https://i.imgur.com/SiJ3OlU.png" group-title="Lokal",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="118" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
+#EXTINF:-1 tvg-id="118" tvg-name="TVRI" tvg-logo="https://i.imgur.com/evpvED5.png" group-title="Lokal",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="157" tvg-name="157" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
+#EXTINF:-1 tvg-id="157" tvg-name="Animax" tvg-logo="https://i.imgur.com/gUkffGd.png" group-title="Entertainment",Animax
 http://210.210.155.35/dr9445/h/h144/01.m3u8

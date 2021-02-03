@@ -101,10 +101,22 @@ class TVScraper(object):
                 )
             time_1 += " +0700"
             time_2 += " +0700"
+
+            htmlCodes = (
+                ("'", '&#39;'),
+                ('"', '&quot;'),
+                ('>', '&gt;'),
+                ('<', '&lt;'),
+                ('&', '&amp;')
+            )
+            showTitle = shows_name[int(i)]
+            for code in htmlCodes:
+                showTitle = showTitle.replace(code[0], code[1])
+
             shows += (
                 f'\n  <programme start="{time_1}" stop="{time_2}" channel="{channel}">'
             )
-            shows += f'\n    <title lang="id">{shows_name[int(i)]}</title>'
+            shows += f'\n    <title lang="id">{showTitle}</title>'
             shows += f"\n  </programme>"
         return shows
 
@@ -123,7 +135,7 @@ class TVScraper(object):
         for _tv in tv_channels:
             channel = int(_tv)
             xml_data += f'\n  <channel id="{channel}">'
-            xml_data += f"\n    <display-name lang=\"id\">{channels['mnc'][channel]}</display-name>"
+            xml_data += f"\n    <display-name>{channels['mnc'][channel]}</display-name>"
             xml_data += f"\n  </channel>"
         for _tv in tv_channels:
             for day in range(days):
